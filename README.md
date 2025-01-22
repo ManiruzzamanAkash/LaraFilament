@@ -104,6 +104,9 @@ A simple blog management using FilamentPHP with Laravel 11.x by Maniruzzaman Aka
 <b>Blog Page UI - Lite mode</b>
 ![Blog Management Page LaraFilament](screenshots/blog-posts-page-lite.png)
 
+<b>Blog Create Page UI - Lite mode</b>
+![Blog Management Page LaraFilament](screenshots/blog-post-create-page-lite.png)
+
 ## Mobile responsive View
 <b>Dashboard Page UI Mobile - Dark mode</b>
 ![Blog Management Page LaraFilament](screenshots/mobile-responsive-view-dark.png)
