@@ -56,9 +56,10 @@ class BlogCategoryResource extends Resource
         return $table
             ->columns([
                 Tables\Columns\TextColumn::make('name')
-                    ->searchable(),
-                Tables\Columns\TextColumn::make('slug')
-                    ->searchable(),
+                    ->searchable()
+                    ->formatStateUsing(function ($state, $record) {
+                        return view('components.blog-category-name-with-image', ['record' => $record]);
+                    }),
                 Tables\Columns\TextColumn::make('description')
                     ->wrap()
                     ->searchable(),
