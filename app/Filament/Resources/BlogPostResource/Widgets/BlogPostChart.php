@@ -12,7 +12,7 @@ class BlogPostChart extends ChartWidget
 
     protected function getData(): array
     {
-        $posts = BlogPost::selectRaw('COUNT(*) as count, strftime("%m", created_at) as month')
+        $posts = BlogPost::selectRaw('COUNT(*) as count, strftime("%m", published_at) as month')
             ->groupBy('month')
             ->orderBy('month')
             ->get()
