@@ -35,22 +35,35 @@ A simple blog management using FilamentPHP with Laravel 11.x by Maniruzzaman Aka
 5. Run migrations:
 
     ```bash
-    php artisan migrate
+    php artisan migrate:fresh --seed
     ```
 
-6. Seed the database (optional):
-
+6. Serve the application:
     ```bash
-    php artisan db:seed
-    ```
-
-7. Serve the application:
-    ```bash
-    php artisan serve
     npm run dev
+    php artisan serve
+    ```
+
+7. Browse
+    http://127.0.0.1:8000/
+    > Auto login credentials should already be set in login form though for local environment -
+    - Email: admin@example.com
+    - Password: password
+
+    > URL is important for file uploading added in
+    ```sh
+    APP_URL=http://127.0.0.1:8000
     ```
 
 ## Features
+
+-   **Frontend Website Pages**
+    -   Home Page - Category List and Recent Post list
+    -   Category Page
+    -   Category Detail Page with All of the Blog posts
+    -   Blog Page
+    -   Blog Detail Page
+
 
 -   **Author Management**
 
@@ -79,6 +92,14 @@ A simple blog management using FilamentPHP with Laravel 11.x by Maniruzzaman Aka
     -   Other relevant metrics
 
 ## Screenshots
+
+### Home Page
+<b>Home Page UI - Lite mode</b>
+![Lite Home Page LaraFilament](screenshots/front-page.png)
+
+### Blog Page
+<b>Blog Page UI - Lite mode</b>
+![Lite Blog Page LaraFilament](screenshots/blog-page.png)
 
 ### Login Page
 <b>Login Page UI - Dark mode</b>
