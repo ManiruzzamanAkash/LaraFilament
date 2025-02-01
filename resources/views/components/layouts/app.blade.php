@@ -115,19 +115,6 @@
                                     </svg>
                                     Dashboard
                                 </a>
-                                <a
-                                    href="{{ route('logout') }}"
-                                    class="bg-red-500 hover:bg-red-700 text-white font-bold py-2 px-4 rounded"
-                                    onclick="event.preventDefault(); document.getElementById('logout-form').submit();"
-                                >
-                                    <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 inline-block" viewBox="0 0 20 20" fill="currentColor">
-                                        <path fill-rule="evenodd" d="M3 4a1 1 0 011-1h12a1 1 0 011 1v12a1 1 0 01-1 1H4a1 1 0 01-1-1V4zm8 1a1 1 0 00-2 0v4H7a1 1 0 000 2h2v4a1 1 0 002 0v-4h2a1 1 0 000-2h-2V5z" clip-rule="evenodd" />
-                                    </svg>
-                                    Log out
-                                </a>
-                                <form id="logout-form" action="{{ route('logout') }}" method="POST" class="hidden">
-                                    @csrf
-                                </form>
                             @else
                                 <a
                                     href="{{ route('filament.admin.auth.login') }}"
