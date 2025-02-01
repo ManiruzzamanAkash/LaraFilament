@@ -11,6 +11,7 @@ class BlogCategory extends Model
         'slug',
         'parent_id',
         'description',
+        'image',
     ];
 
     public function parent()

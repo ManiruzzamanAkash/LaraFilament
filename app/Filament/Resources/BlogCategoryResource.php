@@ -17,7 +17,7 @@ class BlogCategoryResource extends Resource
 {
     protected static ?string $model = BlogCategory::class;
 
-    protected static ?string $navigationIcon = 'heroicon-o-rectangle-stack';
+    protected static ?string $navigationGroup = 'Blogs';
 
     protected static ?int $navigationSort = 3;
 
@@ -42,7 +42,12 @@ class BlogCategoryResource extends Resource
                                 }
                             })
                             ->pluck('name', 'id')
-                    )
+                    ),
+                Forms\Components\FileUpload::make('image')
+                    ->label('Category Image')
+                    ->image()
+                    ->directory('category-images')
+                    ->nullable(),
             ]);
     }
 
