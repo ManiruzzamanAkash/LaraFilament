@@ -15,6 +15,7 @@ class BlogPost extends Model
         'views',
         'is_published',
         'published_at',
+        'featured_image',
     ];
 
     protected $casts = [

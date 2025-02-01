@@ -18,7 +18,7 @@ class BlogPostResource extends Resource
 {
     protected static ?string $model = BlogPost::class;
 
-    protected static ?string $navigationIcon = 'heroicon-o-document-text';
+    protected static ?string $navigationGroup = 'Blogs';
 
     protected static ?int $navigationSort = 4;
 
@@ -33,6 +33,11 @@ class BlogPostResource extends Resource
                 Forms\Components\RichEditor::make('content')
                     ->columnSpanFull()
                     ->required(),
+                Forms\Components\FileUpload::make('featured_image')
+                    ->label('Featured Image')
+                    ->image()
+                    ->directory('post-images')
+                    ->nullable(),
                 Forms\Components\TextInput::make('views')
                     ->nullable()
                     ->numeric()

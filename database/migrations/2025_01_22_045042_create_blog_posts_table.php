@@ -20,6 +20,7 @@ return new class extends Migration
             $table->unsignedInteger('views')->default(0);
             $table->foreignId('author_id')->constrained('users');
             $table->foreignId('category_id')->constrained('blog_categories');
+            $table->string('featured_image')->nullable();
             $table->timestamp('published_at')->nullable();
             $table->timestamps();
         });
