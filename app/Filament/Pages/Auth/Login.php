@@ -2,12 +2,8 @@
 
 namespace App\Filament\Pages\Auth;
 
-use Filament\Forms\Components\Component;
-use Filament\Forms\Components\TextInput;
 use Filament\Forms\Form;
 use Filament\Pages\Auth\Login as BaseLoginPage;
-use Illuminate\Support\Facades\Blade;
-use Illuminate\Support\HtmlString;
 
 /**
  * @property Form $form
