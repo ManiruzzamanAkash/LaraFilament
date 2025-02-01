@@ -53,7 +53,6 @@
                                 />
                             </svg>
                             <!-- Icon when menu is open. -->
-                            <!-- Heroicon name: x -->
                             <svg
                                 class="hidden h-6 w-6"
                                 xmlns="http://www.w3.org/2000/svg"
@@ -102,11 +101,52 @@
                             </div>
                         </div>
                     </div>
+
+                    <!-- Desktop only auth routes links -->
+                    <div class="hidden md:block sm:ml-6">
+                        @if (Route::has('filament.admin.auth.login'))
+                            @auth
+                                <a
+                                    href="{{ url('/admin') }}"
+                                    class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded"
+                                >
+                                    <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 inline-block" viewBox="0 0 20 20" fill="currentColor">
+                                        <path d="M10 20a8 8 0 100-16 8 8 0 000 16zm1-11V5a1 1 0 10-2 0v4H5a1 1 0 100 2h4v4a1 1 0 102 0v-4h4a1 1 0 100-2h-4z" />
+                                    </svg>
+                                    Dashboard
+                                </a>
+                                <a
+                                    href="{{ route('logout') }}"
+                                    class="bg-red-500 hover:bg-red-700 text-white font-bold py-2 px-4 rounded"
+                                    onclick="event.preventDefault(); document.getElementById('logout-form').submit();"
+                                >
+                                    <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 inline-block" viewBox="0 0 20 20" fill="currentColor">
+                                        <path fill-rule="evenodd" d="M3 4a1 1 0 011-1h12a1 1 0 011 1v12a1 1 0 01-1 1H4a1 1 0 01-1-1V4zm8 1a1 1 0 00-2 0v4H7a1 1 0 000 2h2v4a1 1 0 002 0v-4h2a1 1 0 000-2h-2V5z" clip-rule="evenodd" />
+                                    </svg>
+                                    Log out
+                                </a>
+                                <form id="logout-form" action="{{ route('logout') }}" method="POST" class="hidden">
+                                    @csrf
+                                </form>
+                            @else
+                                <a
+                                    href="{{ route('filament.admin.auth.login') }}"
+                                    class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded flex gap-3"
+                                >
+                                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6">
+                                        <path stroke-linecap="round" stroke-linejoin="round" d="M8.25 9V5.25A2.25 2.25 0 0 1 10.5 3h6a2.25 2.25 0 0 1 2.25 2.25v13.5A2.25 2.25 0 0 1 16.5 21h-6a2.25 2.25 0 0 1-2.25-2.25V15m-3 0-3-3m0 0 3-3m-3 3H15" />
+                                    </svg>
+
+                                    Log in
+                                </a>
+                            @endauth
+                        @endif
+                    </div>
                     <div
                         class="absolute inset-y-0 right-0 flex items-center pr-2 sm:static sm:inset-auto sm:ml-6 sm:pr-0"
                         :class="{'block': open, 'hidden': !open}"
                     >
-                        @if (Route::has('login'))
+                        @if (Route::has('filament.admin.auth.login'))
                             @auth
                                 <a
                                     href="{{ url('/dashboard') }}"
@@ -115,17 +155,10 @@
                                 >
                             @else
                                 <a
-                                    href="{{ route('login') }}"
+                                    href="{{ route('filament.admin.auth.login') }}"
                                     class="text-gray-900 dark:text-white px-3 py-2 rounded-md text-sm font-medium"
                                     >Log in</a
                                 >
-                                @if (Route::has('register'))
-                                <a
-                                    href="{{ route('register') }}"
-                                    class="ml-4 text-gray-900 dark:text-white px-3 py-2 rounded-md text-sm font-medium"
-                                    >Register</a
-                                >
-                                @endif
                             @endauth
                         @endif
                     </div>
