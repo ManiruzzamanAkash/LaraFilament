@@ -118,3 +118,4 @@ Password: password
 - Simulated failed payment scenarios
 - Imported sample CSV data for testing
 - Imported sample CSV data for testing
+- Added shipping methods to demo checkout
