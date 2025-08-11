@@ -615,3 +615,4 @@ Password: password
 - Added sample customer feedback messages
 - Added demo coupon codes for testing
 - Enabled debug mode for testing
+- Added sample products to demo store
