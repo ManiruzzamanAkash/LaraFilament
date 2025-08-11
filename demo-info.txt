@@ -770,3 +770,4 @@ Password: password
 - Configured multi-language support
 - Configured test payment gateway with sandbox credentials
 - Added sample products to demo store
+- Updated dashboard widgets for better analytics
