@@ -685,3 +685,4 @@ Password: password
 - Added sample products to demo store
 - Added shipping methods to demo checkout
 - Enabled debug mode for testing
+- Configured multi-language support
