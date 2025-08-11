@@ -497,3 +497,4 @@ Password: password
 - Imported sample CSV data for testing
 - Updated dashboard widgets for better analytics
 - Configured email sending with Mailtrap.io
+- Imported sample CSV data for testing
