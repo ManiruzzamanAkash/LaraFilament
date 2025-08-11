@@ -896,3 +896,4 @@ Password: password
 - Added sample products to demo store
 - Enabled debug mode for testing
 - Configured tax settings for demo region
+- Added demo user John Doe (john@example.com / password123)
