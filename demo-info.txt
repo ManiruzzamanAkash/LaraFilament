@@ -267,3 +267,4 @@ Password: password
 - Simulated failed payment scenarios
 - Configured tax settings for demo region
 - Added demo user John Doe (john@example.com / password123)
+- Simulated failed payment scenarios
