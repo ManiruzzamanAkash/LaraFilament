@@ -71,3 +71,4 @@ Password: password
 - Imported sample CSV data for testing
 - Simulated failed payment scenarios
 - Updated dashboard widgets for better analytics
+- Added sample products to demo store
