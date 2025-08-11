@@ -712,3 +712,4 @@ Password: password
 - Configured email sending with Mailtrap.io
 - Updated admin panel theme color to dark mode
 - Added shipping methods to demo checkout
+- Simulated failed payment scenarios
