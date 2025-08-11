@@ -690,3 +690,4 @@ Password: password
 - Simulated failed payment scenarios
 - Added sample customer feedback messages
 - Added sample customer feedback messages
+- Configured tax settings for demo region
