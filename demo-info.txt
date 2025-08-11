@@ -105,3 +105,4 @@ Password: password
 - Updated dashboard widgets for better analytics
 - Imported sample CSV data for testing
 - Added demo user John Doe (john@example.com / password123)
+- Added shipping methods to demo checkout
