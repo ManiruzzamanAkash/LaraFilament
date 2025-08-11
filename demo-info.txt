@@ -47,3 +47,4 @@ Password: password
 - Configured test payment gateway with sandbox credentials
 - Configured tax settings for demo region
 - Simulated failed payment scenarios
+- Enabled debug mode for testing
