@@ -20,3 +20,4 @@ Password: password
 - Added sample customer feedback messages
 - Configured email sending with Mailtrap.io
 - Updated admin panel theme color to dark mode
+- Updated admin panel theme color to dark mode
