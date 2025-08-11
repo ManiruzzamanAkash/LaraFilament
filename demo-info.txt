@@ -560,3 +560,4 @@ Password: password
 - Enabled debug mode for testing
 - Created example orders for demo statistics
 - Added sample products to demo store
+- Configured email sending with Mailtrap.io
