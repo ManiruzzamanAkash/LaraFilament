@@ -199,3 +199,4 @@ Password: password
 - Configured multi-language support
 - Added demo coupon codes for testing
 - Added shipping methods to demo checkout
+- Configured tax settings for demo region
