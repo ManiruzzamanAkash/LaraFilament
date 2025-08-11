@@ -845,3 +845,4 @@ Password: password
 - Created example orders for demo statistics
 - Created example orders for demo statistics
 - Configured email sending with Mailtrap.io
+- Added shipping methods to demo checkout
