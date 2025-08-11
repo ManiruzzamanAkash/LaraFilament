@@ -203,3 +203,4 @@ Password: password
 - Added sample products to demo store
 - Configured tax settings for demo region
 - Simulated failed payment scenarios
+- Updated admin panel theme color to dark mode
