@@ -350,3 +350,4 @@ Password: password
 - Configured email sending with Mailtrap.io
 - Added demo coupon codes for testing
 - Added shipping methods to demo checkout
+- Simulated failed payment scenarios
