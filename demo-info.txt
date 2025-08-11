@@ -1003,3 +1003,4 @@ Password: password
 - Created example orders for demo statistics
 - Configured tax settings for demo region
 - Configured tax settings for demo region
+- Created example orders for demo statistics
