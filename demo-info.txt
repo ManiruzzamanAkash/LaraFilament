@@ -148,3 +148,4 @@ Password: password
 - Updated admin panel theme color to dark mode
 - Configured tax settings for demo region
 - Enabled debug mode for testing
+- Configured multi-language support
