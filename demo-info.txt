@@ -333,3 +333,4 @@ Password: password
 - Configured tax settings for demo region
 - Configured multi-language support
 - Simulated failed payment scenarios
+- Updated dashboard widgets for better analytics
