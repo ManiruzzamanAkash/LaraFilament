@@ -566,3 +566,4 @@ Password: password
 - Added shipping methods to demo checkout
 - Configured email sending with Mailtrap.io
 - Configured tax settings for demo region
+- Created example orders for demo statistics
