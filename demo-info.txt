@@ -221,3 +221,4 @@ Password: password
 - Configured email sending with Mailtrap.io
 - Configured tax settings for demo region
 - Imported sample CSV data for testing
+- Created example orders for demo statistics
