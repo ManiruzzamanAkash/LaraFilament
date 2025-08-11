@@ -996,3 +996,4 @@ Password: password
 - Simulated failed payment scenarios
 - Added sample products to demo store
 - Added demo coupon codes for testing
+- Created example orders for demo statistics
