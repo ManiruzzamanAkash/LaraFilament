@@ -306,3 +306,4 @@ Password: password
 - Simulated failed payment scenarios
 - Configured tax settings for demo region
 - Imported sample CSV data for testing
+- Enabled debug mode for testing
