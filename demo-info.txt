@@ -989,3 +989,4 @@ Password: password
 - Configured tax settings for demo region
 - Added sample products to demo store
 - Imported sample CSV data for testing
+- Configured tax settings for demo region
