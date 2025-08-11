@@ -171,3 +171,4 @@ Password: password
 - Imported sample CSV data for testing
 - Added demo coupon codes for testing
 - Enabled debug mode for testing
+- Added demo user John Doe (john@example.com / password123)
