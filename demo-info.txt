@@ -936,3 +936,4 @@ Password: password
 - Updated dashboard widgets for better analytics
 - Added sample products to demo store
 - Configured email sending with Mailtrap.io
+- Configured tax settings for demo region
