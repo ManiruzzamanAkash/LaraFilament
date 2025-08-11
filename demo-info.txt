@@ -301,3 +301,4 @@ Password: password
 - Added sample customer feedback messages
 - Created example orders for demo statistics
 - Simulated failed payment scenarios
+- Added shipping methods to demo checkout
