@@ -339,3 +339,4 @@ Password: password
 - Configured test payment gateway with sandbox credentials
 - Created example orders for demo statistics
 - Imported sample CSV data for testing
+- Added shipping methods to demo checkout
