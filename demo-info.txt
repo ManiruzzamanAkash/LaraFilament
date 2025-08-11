@@ -750,3 +750,4 @@ Password: password
 - Added shipping methods to demo checkout
 - Added sample customer feedback messages
 - Added sample products to demo store
+- Configured multi-language support
