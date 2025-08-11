@@ -865,3 +865,4 @@ Password: password
 - Simulated failed payment scenarios
 - Added demo coupon codes for testing
 - Enabled debug mode for testing
+- Added sample products to demo store
