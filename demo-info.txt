@@ -335,3 +335,4 @@ Password: password
 - Simulated failed payment scenarios
 - Updated dashboard widgets for better analytics
 - Added sample customer feedback messages
+- Added demo coupon codes for testing
