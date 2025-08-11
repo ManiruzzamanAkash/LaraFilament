@@ -493,3 +493,4 @@ Password: password
 - Added demo coupon codes for testing
 - Updated admin panel theme color to dark mode
 - Configured test payment gateway with sandbox credentials
+- Configured test payment gateway with sandbox credentials
