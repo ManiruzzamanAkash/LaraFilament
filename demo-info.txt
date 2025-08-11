@@ -708,3 +708,4 @@ Password: password
 - Imported sample CSV data for testing
 - Added shipping methods to demo checkout
 - Configured multi-language support
+- Simulated failed payment scenarios
