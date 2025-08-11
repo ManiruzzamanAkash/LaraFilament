@@ -15,3 +15,4 @@ Password: password
 - Created example orders for demo statistics
 - Updated dashboard widgets for better analytics
 - Updated admin panel theme color to dark mode
+- Simulated failed payment scenarios
