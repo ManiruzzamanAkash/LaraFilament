@@ -834,3 +834,4 @@ Password: password
 - Added shipping methods to demo checkout
 - Created example orders for demo statistics
 - Added demo user John Doe (john@example.com / password123)
+- Configured tax settings for demo region
