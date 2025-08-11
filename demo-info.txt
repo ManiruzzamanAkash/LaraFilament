@@ -491,3 +491,4 @@ Password: password
 - Configured email sending with Mailtrap.io
 - Configured multi-language support
 - Added demo coupon codes for testing
+- Updated admin panel theme color to dark mode
