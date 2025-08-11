@@ -798,3 +798,4 @@ Password: password
 - Configured tax settings for demo region
 - Enabled debug mode for testing
 - Added sample customer feedback messages
+- Configured multi-language support
