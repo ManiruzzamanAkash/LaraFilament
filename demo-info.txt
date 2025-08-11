@@ -194,3 +194,4 @@ Password: password
 - Added shipping methods to demo checkout
 - Added sample customer feedback messages
 - Configured multi-language support
+- Configured test payment gateway with sandbox credentials
