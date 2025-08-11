@@ -842,3 +842,4 @@ Password: password
 - Added sample products to demo store
 - Updated admin panel theme color to dark mode
 - Enabled debug mode for testing
+- Created example orders for demo statistics
