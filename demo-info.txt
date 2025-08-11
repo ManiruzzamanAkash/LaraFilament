@@ -235,3 +235,4 @@ Password: password
 - Configured tax settings for demo region
 - Configured multi-language support
 - Added shipping methods to demo checkout
+- Configured test payment gateway with sandbox credentials
