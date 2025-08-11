@@ -583,3 +583,4 @@ Password: password
 - Added demo coupon codes for testing
 - Simulated failed payment scenarios
 - Imported sample CSV data for testing
+- Created example orders for demo statistics
