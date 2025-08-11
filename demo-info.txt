@@ -919,3 +919,4 @@ Password: password
 - Configured email sending with Mailtrap.io
 - Configured multi-language support
 - Added demo user John Doe (john@example.com / password123)
+- Enabled debug mode for testing
