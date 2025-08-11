@@ -663,3 +663,4 @@ Password: password
 - Updated dashboard widgets for better analytics
 - Configured multi-language support
 - Updated admin panel theme color to dark mode
+- Configured test payment gateway with sandbox credentials
