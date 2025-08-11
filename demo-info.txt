@@ -953,3 +953,4 @@ Password: password
 - Created example orders for demo statistics
 - Added demo coupon codes for testing
 - Configured multi-language support
+- Configured multi-language support
