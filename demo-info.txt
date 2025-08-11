@@ -548,3 +548,4 @@ Password: password
 - Created example orders for demo statistics
 - Configured tax settings for demo region
 - Added sample customer feedback messages
+- Configured tax settings for demo region
