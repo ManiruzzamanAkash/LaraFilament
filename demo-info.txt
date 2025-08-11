@@ -836,3 +836,4 @@ Password: password
 - Added demo user John Doe (john@example.com / password123)
 - Configured tax settings for demo region
 - Added sample products to demo store
+- Updated admin panel theme color to dark mode
