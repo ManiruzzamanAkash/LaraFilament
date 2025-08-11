@@ -723,3 +723,4 @@ Password: password
 - Updated dashboard widgets for better analytics
 - Configured tax settings for demo region
 - Added demo coupon codes for testing
+- Added demo coupon codes for testing
