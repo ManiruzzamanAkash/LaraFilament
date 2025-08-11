@@ -342,3 +342,4 @@ Password: password
 - Added shipping methods to demo checkout
 - Simulated failed payment scenarios
 - Created example orders for demo statistics
+- Added sample products to demo store
