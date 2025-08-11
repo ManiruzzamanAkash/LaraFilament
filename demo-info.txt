@@ -369,3 +369,4 @@ Password: password
 - Configured tax settings for demo region
 - Configured multi-language support
 - Configured tax settings for demo region
+- Enabled debug mode for testing
