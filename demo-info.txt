@@ -110,3 +110,4 @@ Password: password
 - Added demo user John Doe (john@example.com / password123)
 - Imported sample CSV data for testing
 - Enabled debug mode for testing
+- Created example orders for demo statistics
