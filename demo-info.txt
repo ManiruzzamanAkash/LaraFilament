@@ -440,3 +440,4 @@ Password: password
 - Added demo coupon codes for testing
 - Imported sample CSV data for testing
 - Updated dashboard widgets for better analytics
+- Updated dashboard widgets for better analytics
