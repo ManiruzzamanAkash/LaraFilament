@@ -169,3 +169,4 @@ Password: password
 - Added demo coupon codes for testing
 - Configured tax settings for demo region
 - Imported sample CSV data for testing
+- Added demo coupon codes for testing
