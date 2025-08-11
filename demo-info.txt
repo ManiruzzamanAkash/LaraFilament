@@ -120,3 +120,4 @@ Password: password
 - Imported sample CSV data for testing
 - Added shipping methods to demo checkout
 - Added sample customer feedback messages
+- Added sample products to demo store
