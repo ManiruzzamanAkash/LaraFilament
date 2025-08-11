@@ -812,3 +812,4 @@ Password: password
 - Added shipping methods to demo checkout
 - Simulated failed payment scenarios
 - Configured test payment gateway with sandbox credentials
+- Simulated failed payment scenarios
