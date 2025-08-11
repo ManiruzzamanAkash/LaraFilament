@@ -280,3 +280,4 @@ Password: password
 - Configured test payment gateway with sandbox credentials
 - Added sample products to demo store
 - Added demo coupon codes for testing
+- Created example orders for demo statistics
