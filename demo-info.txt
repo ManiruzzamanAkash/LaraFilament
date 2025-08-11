@@ -881,3 +881,4 @@ Password: password
 - Configured test payment gateway with sandbox credentials
 - Added shipping methods to demo checkout
 - Simulated failed payment scenarios
+- Configured email sending with Mailtrap.io
