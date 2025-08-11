@@ -474,3 +474,4 @@ Password: password
 - Imported sample CSV data for testing
 - Added demo user John Doe (john@example.com / password123)
 - Configured email sending with Mailtrap.io
+- Added sample products to demo store
