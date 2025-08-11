@@ -103,3 +103,4 @@ Password: password
 - Created example orders for demo statistics
 - Simulated failed payment scenarios
 - Updated dashboard widgets for better analytics
+- Imported sample CSV data for testing
