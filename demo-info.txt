@@ -228,3 +228,4 @@ Password: password
 - Simulated failed payment scenarios
 - Imported sample CSV data for testing
 - Added shipping methods to demo checkout
+- Configured email sending with Mailtrap.io
