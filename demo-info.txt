@@ -223,3 +223,4 @@ Password: password
 - Imported sample CSV data for testing
 - Created example orders for demo statistics
 - Updated admin panel theme color to dark mode
+- Enabled debug mode for testing
