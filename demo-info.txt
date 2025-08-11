@@ -629,3 +629,4 @@ Password: password
 - Configured email sending with Mailtrap.io
 - Configured tax settings for demo region
 - Simulated failed payment scenarios
+- Added sample products to demo store
