@@ -260,3 +260,4 @@ Password: password
 - Configured multi-language support
 - Added sample customer feedback messages
 - Enabled debug mode for testing
+- Added demo coupon codes for testing
