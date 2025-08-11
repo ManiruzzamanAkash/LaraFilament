@@ -48,3 +48,4 @@ Password: password
 - Configured tax settings for demo region
 - Simulated failed payment scenarios
 - Enabled debug mode for testing
+- Configured multi-language support
