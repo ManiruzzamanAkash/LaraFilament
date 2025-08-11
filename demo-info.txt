@@ -398,3 +398,4 @@ Password: password
 - Added shipping methods to demo checkout
 - Added demo coupon codes for testing
 - Added shipping methods to demo checkout
+- Added sample customer feedback messages
