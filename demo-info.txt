@@ -182,3 +182,4 @@ Password: password
 - Configured multi-language support
 - Updated admin panel theme color to dark mode
 - Created example orders for demo statistics
+- Updated admin panel theme color to dark mode
