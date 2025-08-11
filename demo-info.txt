@@ -23,3 +23,4 @@ Password: password
 - Updated admin panel theme color to dark mode
 - Simulated failed payment scenarios
 - Added demo user John Doe (john@example.com / password123)
+- Enabled debug mode for testing
