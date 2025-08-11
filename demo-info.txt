@@ -652,3 +652,4 @@ Password: password
 - Configured multi-language support
 - Added sample products to demo store
 - Updated admin panel theme color to dark mode
+- Enabled debug mode for testing
