@@ -459,3 +459,4 @@ Password: password
 - Added demo user John Doe (john@example.com / password123)
 - Added demo user John Doe (john@example.com / password123)
 - Created example orders for demo statistics
+- Added shipping methods to demo checkout
