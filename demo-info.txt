@@ -590,3 +590,4 @@ Password: password
 - Added shipping methods to demo checkout
 - Updated admin panel theme color to dark mode
 - Created example orders for demo statistics
+- Simulated failed payment scenarios
