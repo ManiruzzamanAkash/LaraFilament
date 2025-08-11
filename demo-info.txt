@@ -682,3 +682,4 @@ Password: password
 - Updated dashboard widgets for better analytics
 - Added sample customer feedback messages
 - Added shipping methods to demo checkout
+- Added sample products to demo store
