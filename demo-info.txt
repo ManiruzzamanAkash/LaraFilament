@@ -421,3 +421,4 @@ Password: password
 - Configured test payment gateway with sandbox credentials
 - Added demo coupon codes for testing
 - Added sample products to demo store
+- Updated dashboard widgets for better analytics
