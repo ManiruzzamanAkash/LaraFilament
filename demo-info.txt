@@ -320,3 +320,4 @@ Password: password
 - Configured test payment gateway with sandbox credentials
 - Updated admin panel theme color to dark mode
 - Imported sample CSV data for testing
+- Enabled debug mode for testing
