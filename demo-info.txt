@@ -817,3 +817,4 @@ Password: password
 - Added sample products to demo store
 - Added demo coupon codes for testing
 - Added shipping methods to demo checkout
+- Imported sample CSV data for testing
