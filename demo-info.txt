@@ -699,3 +699,4 @@ Password: password
 - Added sample customer feedback messages
 - Created example orders for demo statistics
 - Configured multi-language support
+- Imported sample CSV data for testing
