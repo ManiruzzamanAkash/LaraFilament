@@ -237,3 +237,4 @@ Password: password
 - Added shipping methods to demo checkout
 - Configured test payment gateway with sandbox credentials
 - Configured tax settings for demo region
+- Added sample products to demo store
