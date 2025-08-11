@@ -828,3 +828,4 @@ Password: password
 - Configured test payment gateway with sandbox credentials
 - Created example orders for demo statistics
 - Added sample customer feedback messages
+- Configured multi-language support
