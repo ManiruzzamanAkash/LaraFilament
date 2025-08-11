@@ -965,3 +965,4 @@ Password: password
 - Imported sample CSV data for testing
 - Added demo coupon codes for testing
 - Added sample products to demo store
+- Configured tax settings for demo region
