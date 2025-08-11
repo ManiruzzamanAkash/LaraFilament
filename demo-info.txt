@@ -580,3 +580,4 @@ Password: password
 - Updated admin panel theme color to dark mode
 - Configured email sending with Mailtrap.io
 - Added demo coupon codes for testing
+- Added demo coupon codes for testing
