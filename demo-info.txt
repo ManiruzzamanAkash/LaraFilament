@@ -314,3 +314,4 @@ Password: password
 - Added sample customer feedback messages
 - Added shipping methods to demo checkout
 - Added shipping methods to demo checkout
+- Imported sample CSV data for testing
