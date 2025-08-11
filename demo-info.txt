@@ -962,3 +962,4 @@ Password: password
 - Configured tax settings for demo region
 - Imported sample CSV data for testing
 - Configured multi-language support
+- Imported sample CSV data for testing
