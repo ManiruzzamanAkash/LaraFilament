@@ -130,3 +130,4 @@ Password: password
 - Created example orders for demo statistics
 - Added sample customer feedback messages
 - Configured email sending with Mailtrap.io
+- Enabled debug mode for testing
