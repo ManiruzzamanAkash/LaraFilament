@@ -294,3 +294,4 @@ Password: password
 - Configured test payment gateway with sandbox credentials
 - Configured email sending with Mailtrap.io
 - Configured test payment gateway with sandbox credentials
+- Configured tax settings for demo region
