@@ -481,3 +481,4 @@ Password: password
 - Imported sample CSV data for testing
 - Added shipping methods to demo checkout
 - Added shipping methods to demo checkout
+- Enabled debug mode for testing
