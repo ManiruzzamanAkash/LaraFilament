@@ -522,3 +522,4 @@ Password: password
 - Updated admin panel theme color to dark mode
 - Configured email sending with Mailtrap.io
 - Configured email sending with Mailtrap.io
+- Configured multi-language support
