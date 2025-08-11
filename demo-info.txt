@@ -697,3 +697,4 @@ Password: password
 - Added sample products to demo store
 - Imported sample CSV data for testing
 - Added sample customer feedback messages
+- Created example orders for demo statistics
