@@ -378,3 +378,4 @@ Password: password
 - Added demo coupon codes for testing
 - Configured email sending with Mailtrap.io
 - Added demo coupon codes for testing
+- Configured multi-language support
