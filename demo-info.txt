@@ -92,3 +92,4 @@ Password: password
 - Imported sample CSV data for testing
 - Added demo coupon codes for testing
 - Updated admin panel theme color to dark mode
+- Simulated failed payment scenarios
