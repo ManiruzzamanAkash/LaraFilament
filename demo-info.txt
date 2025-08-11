@@ -409,3 +409,4 @@ Password: password
 - Enabled debug mode for testing
 - Added demo coupon codes for testing
 - Created example orders for demo statistics
+- Added demo coupon codes for testing
