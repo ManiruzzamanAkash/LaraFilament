@@ -641,3 +641,4 @@ Password: password
 - Updated dashboard widgets for better analytics
 - Added demo coupon codes for testing
 - Added shipping methods to demo checkout
+- Configured tax settings for demo region
