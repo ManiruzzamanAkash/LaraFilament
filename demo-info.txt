@@ -41,3 +41,4 @@ Password: password
 - Updated admin panel theme color to dark mode
 - Configured tax settings for demo region
 - Simulated failed payment scenarios
+- Added demo coupon codes for testing
