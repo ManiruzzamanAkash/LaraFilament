@@ -906,3 +906,4 @@ Password: password
 - Updated admin panel theme color to dark mode
 - Simulated failed payment scenarios
 - Added demo coupon codes for testing
+- Configured multi-language support
