@@ -899,3 +899,4 @@ Password: password
 - Added demo user John Doe (john@example.com / password123)
 - Updated admin panel theme color to dark mode
 - Created example orders for demo statistics
+- Added sample products to demo store
