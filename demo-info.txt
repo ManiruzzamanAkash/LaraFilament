@@ -121,3 +121,4 @@ Password: password
 - Added shipping methods to demo checkout
 - Added sample customer feedback messages
 - Added sample products to demo store
+- Updated dashboard widgets for better analytics
