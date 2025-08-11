@@ -361,3 +361,4 @@ Password: password
 - Configured multi-language support
 - Enabled debug mode for testing
 - Configured tax settings for demo region
+- Imported sample CSV data for testing
