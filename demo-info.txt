@@ -418,3 +418,4 @@ Password: password
 - Added demo coupon codes for testing
 - Configured tax settings for demo region
 - Added sample customer feedback messages
+- Configured test payment gateway with sandbox credentials
