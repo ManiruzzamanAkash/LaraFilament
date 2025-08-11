@@ -140,3 +140,4 @@ Password: password
 - Added sample products to demo store
 - Enabled debug mode for testing
 - Added demo user John Doe (john@example.com / password123)
+- Simulated failed payment scenarios
