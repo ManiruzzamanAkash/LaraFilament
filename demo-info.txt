@@ -634,3 +634,4 @@ Password: password
 - Configured multi-language support
 - Simulated failed payment scenarios
 - Enabled debug mode for testing
+- Added demo user John Doe (john@example.com / password123)
