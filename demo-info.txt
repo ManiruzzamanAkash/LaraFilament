@@ -61,3 +61,4 @@ Password: password
 - Configured tax settings for demo region
 - Imported sample CSV data for testing
 - Added shipping methods to demo checkout
+- Imported sample CSV data for testing
