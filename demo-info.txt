@@ -117,3 +117,4 @@ Password: password
 - Updated admin panel theme color to dark mode
 - Simulated failed payment scenarios
 - Imported sample CSV data for testing
+- Imported sample CSV data for testing
