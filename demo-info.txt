@@ -135,3 +135,4 @@ Password: password
 - Added sample customer feedback messages
 - Updated dashboard widgets for better analytics
 - Enabled debug mode for testing
+- Updated admin panel theme color to dark mode
