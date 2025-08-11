@@ -963,3 +963,4 @@ Password: password
 - Imported sample CSV data for testing
 - Configured multi-language support
 - Imported sample CSV data for testing
+- Added demo coupon codes for testing
