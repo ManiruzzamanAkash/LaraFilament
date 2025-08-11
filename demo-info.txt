@@ -422,3 +422,4 @@ Password: password
 - Added demo coupon codes for testing
 - Added sample products to demo store
 - Updated dashboard widgets for better analytics
+- Simulated failed payment scenarios
