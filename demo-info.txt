@@ -170,3 +170,4 @@ Password: password
 - Configured tax settings for demo region
 - Imported sample CSV data for testing
 - Added demo coupon codes for testing
+- Enabled debug mode for testing
