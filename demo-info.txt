@@ -415,3 +415,4 @@ Password: password
 - Configured tax settings for demo region
 - Added demo user John Doe (john@example.com / password123)
 - Updated admin panel theme color to dark mode
+- Added demo coupon codes for testing
