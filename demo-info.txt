@@ -82,3 +82,4 @@ Password: password
 - Added demo coupon codes for testing
 - Added shipping methods to demo checkout
 - Configured email sending with Mailtrap.io
+- Updated admin panel theme color to dark mode
