@@ -412,3 +412,4 @@ Password: password
 - Added demo coupon codes for testing
 - Enabled debug mode for testing
 - Added shipping methods to demo checkout
+- Configured tax settings for demo region
