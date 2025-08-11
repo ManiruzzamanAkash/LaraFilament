@@ -442,3 +442,4 @@ Password: password
 - Updated dashboard widgets for better analytics
 - Updated dashboard widgets for better analytics
 - Updated dashboard widgets for better analytics
+- Enabled debug mode for testing
