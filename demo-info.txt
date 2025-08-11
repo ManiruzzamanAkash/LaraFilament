@@ -275,3 +275,4 @@ Password: password
 - Added sample customer feedback messages
 - Updated admin panel theme color to dark mode
 - Imported sample CSV data for testing
+- Added sample customer feedback messages
