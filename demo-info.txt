@@ -370,3 +370,4 @@ Password: password
 - Configured multi-language support
 - Configured tax settings for demo region
 - Enabled debug mode for testing
+- Simulated failed payment scenarios
