@@ -527,3 +527,4 @@ Password: password
 - Updated dashboard widgets for better analytics
 - Updated dashboard widgets for better analytics
 - Added sample customer feedback messages
+- Added demo coupon codes for testing
