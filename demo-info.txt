@@ -6,13 +6,3 @@ http://localhost:8000/admin
 **Credentials:**
 Email: admin@example.com
 Password: password
-- Commit #1: Updated admin panel theme color to dark mode
-- Commit #2: Updated dashboard widgets for better analytics
-- Commit #3: Configured email sending with Mailtrap.io
-- Commit #4: Updated dashboard widgets for better analytics
-- Commit #5: Added demo user John Doe (john@example.com / password123)
-- Commit #6: Simulated failed payment scenarios
-- Commit #7: Added sample products to demo store
-- Commit #8: Added demo coupon codes for testing
-- Commit #9: Configured test payment gateway with sandbox credentials
-- Commit #10: Added demo user John Doe (john@example.com / password123)
