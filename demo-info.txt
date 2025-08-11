@@ -822,3 +822,4 @@ Password: password
 - Added sample products to demo store
 - Enabled debug mode for testing
 - Configured multi-language support
+- Added sample products to demo store
