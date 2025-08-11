@@ -796,3 +796,4 @@ Password: password
 - Updated dashboard widgets for better analytics
 - Updated dashboard widgets for better analytics
 - Configured tax settings for demo region
+- Enabled debug mode for testing
