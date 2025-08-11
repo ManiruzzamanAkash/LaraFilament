@@ -630,3 +630,4 @@ Password: password
 - Configured tax settings for demo region
 - Simulated failed payment scenarios
 - Added sample products to demo store
+- Enabled debug mode for testing
