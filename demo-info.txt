@@ -741,3 +741,4 @@ Password: password
 - Updated admin panel theme color to dark mode
 - Configured multi-language support
 - Configured multi-language support
+- Configured multi-language support
