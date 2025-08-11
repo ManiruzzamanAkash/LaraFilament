@@ -931,3 +931,4 @@ Password: password
 - Configured test payment gateway with sandbox credentials
 - Created example orders for demo statistics
 - Simulated failed payment scenarios
+- Simulated failed payment scenarios
