@@ -554,3 +554,4 @@ Password: password
 - Configured test payment gateway with sandbox credentials
 - Updated admin panel theme color to dark mode
 - Enabled debug mode for testing
+- Added sample products to demo store
