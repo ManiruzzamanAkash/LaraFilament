@@ -165,3 +165,4 @@ Password: password
 - Added demo coupon codes for testing
 - Configured test payment gateway with sandbox credentials
 - Enabled debug mode for testing
+- Added shipping methods to demo checkout
