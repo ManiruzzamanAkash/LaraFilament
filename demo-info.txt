@@ -115,3 +115,4 @@ Password: password
 - Updated dashboard widgets for better analytics
 - Configured test payment gateway with sandbox credentials
 - Updated admin panel theme color to dark mode
+- Simulated failed payment scenarios
