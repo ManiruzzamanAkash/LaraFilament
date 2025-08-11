@@ -809,3 +809,4 @@ Password: password
 - Created example orders for demo statistics
 - Added shipping methods to demo checkout
 - Added shipping methods to demo checkout
+- Added shipping methods to demo checkout
