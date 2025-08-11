@@ -610,3 +610,4 @@ Password: password
 - Configured test payment gateway with sandbox credentials
 - Configured multi-language support
 - Added demo user John Doe (john@example.com / password123)
+- Configured multi-language support
