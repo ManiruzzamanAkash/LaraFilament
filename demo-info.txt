@@ -592,3 +592,4 @@ Password: password
 - Created example orders for demo statistics
 - Simulated failed payment scenarios
 - Configured email sending with Mailtrap.io
+- Added demo coupon codes for testing
