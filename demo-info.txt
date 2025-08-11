@@ -355,3 +355,4 @@ Password: password
 - Added demo coupon codes for testing
 - Added demo coupon codes for testing
 - Added shipping methods to demo checkout
+- Created example orders for demo statistics
