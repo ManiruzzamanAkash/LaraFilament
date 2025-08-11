@@ -628,3 +628,4 @@ Password: password
 - Simulated failed payment scenarios
 - Configured email sending with Mailtrap.io
 - Configured tax settings for demo region
+- Simulated failed payment scenarios
