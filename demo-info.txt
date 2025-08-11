@@ -529,3 +529,4 @@ Password: password
 - Added sample customer feedback messages
 - Added demo coupon codes for testing
 - Added shipping methods to demo checkout
+- Simulated failed payment scenarios
