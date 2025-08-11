@@ -435,3 +435,4 @@ Password: password
 - Configured email sending with Mailtrap.io
 - Configured email sending with Mailtrap.io
 - Added demo user John Doe (john@example.com / password123)
+- Added sample products to demo store
