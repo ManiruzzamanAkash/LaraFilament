@@ -961,3 +961,4 @@ Password: password
 - Updated admin panel theme color to dark mode
 - Configured tax settings for demo region
 - Imported sample CSV data for testing
+- Configured multi-language support
