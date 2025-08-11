@@ -866,3 +866,4 @@ Password: password
 - Added demo coupon codes for testing
 - Enabled debug mode for testing
 - Added sample products to demo store
+- Imported sample CSV data for testing
