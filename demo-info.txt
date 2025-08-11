@@ -79,3 +79,4 @@ Password: password
 - Added shipping methods to demo checkout
 - Added demo coupon codes for testing
 - Updated dashboard widgets for better analytics
+- Added demo coupon codes for testing
