@@ -13,3 +13,4 @@ Password: password
 - Commit #5: Added demo user John Doe (john@example.com / password123)
 - Commit #6: Simulated failed payment scenarios
 - Commit #7: Added sample products to demo store
+- Commit #8: Added demo coupon codes for testing
