@@ -764,3 +764,4 @@ Password: password
 - Enabled debug mode for testing
 - Added sample customer feedback messages
 - Configured tax settings for demo region
+- Added demo coupon codes for testing
