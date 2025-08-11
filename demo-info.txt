@@ -941,3 +941,4 @@ Password: password
 - Simulated failed payment scenarios
 - Added demo coupon codes for testing
 - Added demo coupon codes for testing
+- Updated admin panel theme color to dark mode
