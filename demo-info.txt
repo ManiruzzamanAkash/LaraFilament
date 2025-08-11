@@ -944,3 +944,4 @@ Password: password
 - Updated admin panel theme color to dark mode
 - Simulated failed payment scenarios
 - Configured email sending with Mailtrap.io
+- Added demo coupon codes for testing
