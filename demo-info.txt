@@ -585,3 +585,4 @@ Password: password
 - Imported sample CSV data for testing
 - Created example orders for demo statistics
 - Added shipping methods to demo checkout
+- Added sample products to demo store
