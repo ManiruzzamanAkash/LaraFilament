@@ -337,3 +337,4 @@ Password: password
 - Added sample customer feedback messages
 - Added demo coupon codes for testing
 - Configured test payment gateway with sandbox credentials
+- Created example orders for demo statistics
