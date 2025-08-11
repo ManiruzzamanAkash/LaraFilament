@@ -588,3 +588,4 @@ Password: password
 - Added sample products to demo store
 - Updated dashboard widgets for better analytics
 - Added shipping methods to demo checkout
+- Updated admin panel theme color to dark mode
