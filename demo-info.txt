@@ -431,3 +431,4 @@ Password: password
 - Imported sample CSV data for testing
 - Added shipping methods to demo checkout
 - Updated dashboard widgets for better analytics
+- Simulated failed payment scenarios
