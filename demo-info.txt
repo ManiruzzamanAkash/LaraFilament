@@ -984,3 +984,4 @@ Password: password
 - Updated admin panel theme color to dark mode
 - Configured test payment gateway with sandbox credentials
 - Updated dashboard widgets for better analytics
+- Configured email sending with Mailtrap.io
