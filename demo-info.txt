@@ -930,3 +930,4 @@ Password: password
 - Simulated failed payment scenarios
 - Configured test payment gateway with sandbox credentials
 - Created example orders for demo statistics
+- Simulated failed payment scenarios
