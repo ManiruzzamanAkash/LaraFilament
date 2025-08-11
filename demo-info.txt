@@ -664,3 +664,4 @@ Password: password
 - Configured multi-language support
 - Updated admin panel theme color to dark mode
 - Configured test payment gateway with sandbox credentials
+- Configured email sending with Mailtrap.io
