@@ -430,3 +430,4 @@ Password: password
 - Added shipping methods to demo checkout
 - Imported sample CSV data for testing
 - Added shipping methods to demo checkout
+- Updated dashboard widgets for better analytics
