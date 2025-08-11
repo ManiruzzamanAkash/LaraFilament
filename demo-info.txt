@@ -851,3 +851,4 @@ Password: password
 - Configured tax settings for demo region
 - Created example orders for demo statistics
 - Updated admin panel theme color to dark mode
+- Updated dashboard widgets for better analytics
