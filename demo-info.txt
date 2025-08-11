@@ -651,3 +651,4 @@ Password: password
 - Imported sample CSV data for testing
 - Configured multi-language support
 - Added sample products to demo store
+- Updated admin panel theme color to dark mode
