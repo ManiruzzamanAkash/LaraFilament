@@ -217,3 +217,4 @@ Password: password
 - Configured test payment gateway with sandbox credentials
 - Configured multi-language support
 - Configured test payment gateway with sandbox credentials
+- Added shipping methods to demo checkout
