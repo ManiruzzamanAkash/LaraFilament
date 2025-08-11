@@ -579,3 +579,4 @@ Password: password
 - Added shipping methods to demo checkout
 - Updated admin panel theme color to dark mode
 - Configured email sending with Mailtrap.io
+- Added demo coupon codes for testing
