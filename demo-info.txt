@@ -465,3 +465,4 @@ Password: password
 - Added demo coupon codes for testing
 - Enabled debug mode for testing
 - Configured tax settings for demo region
+- Configured test payment gateway with sandbox credentials
