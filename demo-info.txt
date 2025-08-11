@@ -774,3 +774,4 @@ Password: password
 - Added sample customer feedback messages
 - Added demo user John Doe (john@example.com / password123)
 - Configured multi-language support
+- Configured email sending with Mailtrap.io
