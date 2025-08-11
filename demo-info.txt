@@ -800,3 +800,4 @@ Password: password
 - Added sample customer feedback messages
 - Configured multi-language support
 - Updated admin panel theme color to dark mode
+- Imported sample CSV data for testing
