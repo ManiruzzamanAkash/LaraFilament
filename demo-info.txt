@@ -718,3 +718,4 @@ Password: password
 - Imported sample CSV data for testing
 - Configured tax settings for demo region
 - Updated dashboard widgets for better analytics
+- Configured tax settings for demo region
