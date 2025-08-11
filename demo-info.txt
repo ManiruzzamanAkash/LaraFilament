@@ -32,3 +32,4 @@ Password: password
 - Added demo coupon codes for testing
 - Configured test payment gateway with sandbox credentials
 - Configured test payment gateway with sandbox credentials
+- Configured tax settings for demo region
