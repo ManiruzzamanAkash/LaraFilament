@@ -626,3 +626,4 @@ Password: password
 - Configured email sending with Mailtrap.io
 - Configured email sending with Mailtrap.io
 - Simulated failed payment scenarios
+- Configured email sending with Mailtrap.io
