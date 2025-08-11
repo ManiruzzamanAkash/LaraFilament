@@ -1000,3 +1000,4 @@ Password: password
 - Added shipping methods to demo checkout
 - Configured multi-language support
 - Added sample customer feedback messages
+- Created example orders for demo statistics
