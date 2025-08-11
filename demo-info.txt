@@ -818,3 +818,4 @@ Password: password
 - Added demo coupon codes for testing
 - Added shipping methods to demo checkout
 - Imported sample CSV data for testing
+- Configured multi-language support
