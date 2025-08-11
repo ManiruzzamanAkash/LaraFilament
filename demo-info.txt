@@ -484,3 +484,4 @@ Password: password
 - Enabled debug mode for testing
 - Configured multi-language support
 - Enabled debug mode for testing
+- Simulated failed payment scenarios
