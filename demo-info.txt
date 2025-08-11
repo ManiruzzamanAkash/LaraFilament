@@ -594,3 +594,4 @@ Password: password
 - Configured email sending with Mailtrap.io
 - Added demo coupon codes for testing
 - Added sample customer feedback messages
+- Enabled debug mode for testing
