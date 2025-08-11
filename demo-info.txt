@@ -1005,3 +1005,4 @@ Password: password
 - Configured tax settings for demo region
 - Created example orders for demo statistics
 - Added demo coupon codes for testing
+- Added shipping methods to demo checkout
