@@ -775,3 +775,4 @@ Password: password
 - Added demo user John Doe (john@example.com / password123)
 - Configured multi-language support
 - Configured email sending with Mailtrap.io
+- Configured test payment gateway with sandbox credentials
