@@ -26,3 +26,4 @@ Password: password
 - Enabled debug mode for testing
 - Added demo user John Doe (john@example.com / password123)
 - Configured tax settings for demo region
+- Added demo coupon codes for testing
