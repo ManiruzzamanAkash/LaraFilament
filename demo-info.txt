@@ -300,3 +300,4 @@ Password: password
 - Added demo user John Doe (john@example.com / password123)
 - Added sample customer feedback messages
 - Created example orders for demo statistics
+- Simulated failed payment scenarios
