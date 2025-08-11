@@ -265,3 +265,4 @@ Password: password
 - Added sample products to demo store
 - Enabled debug mode for testing
 - Simulated failed payment scenarios
+- Configured tax settings for demo region
