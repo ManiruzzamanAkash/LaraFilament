@@ -920,3 +920,4 @@ Password: password
 - Configured multi-language support
 - Added demo user John Doe (john@example.com / password123)
 - Enabled debug mode for testing
+- Imported sample CSV data for testing
