@@ -853,3 +853,4 @@ Password: password
 - Updated admin panel theme color to dark mode
 - Updated dashboard widgets for better analytics
 - Imported sample CSV data for testing
+- Configured email sending with Mailtrap.io
