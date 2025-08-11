@@ -952,3 +952,4 @@ Password: password
 - Updated dashboard widgets for better analytics
 - Created example orders for demo statistics
 - Added demo coupon codes for testing
+- Configured multi-language support
