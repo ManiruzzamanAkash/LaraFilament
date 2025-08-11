@@ -188,3 +188,4 @@ Password: password
 - Added sample products to demo store
 - Updated admin panel theme color to dark mode
 - Updated dashboard widgets for better analytics
+- Added sample products to demo store
