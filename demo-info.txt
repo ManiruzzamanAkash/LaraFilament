@@ -179,3 +179,4 @@ Password: password
 - Configured email sending with Mailtrap.io
 - Added sample customer feedback messages
 - Imported sample CSV data for testing
+- Configured multi-language support
