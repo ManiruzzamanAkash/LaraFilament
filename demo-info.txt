@@ -864,3 +864,4 @@ Password: password
 - Added shipping methods to demo checkout
 - Simulated failed payment scenarios
 - Added demo coupon codes for testing
+- Enabled debug mode for testing
