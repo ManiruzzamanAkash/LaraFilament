@@ -738,3 +738,4 @@ Password: password
 - Added shipping methods to demo checkout
 - Created example orders for demo statistics
 - Configured multi-language support
+- Updated admin panel theme color to dark mode
