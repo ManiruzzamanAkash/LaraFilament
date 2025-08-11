@@ -923,3 +923,4 @@ Password: password
 - Imported sample CSV data for testing
 - Simulated failed payment scenarios
 - Configured tax settings for demo region
+- Updated admin panel theme color to dark mode
