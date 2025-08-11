@@ -1,0 +1,8 @@
+## Demo login information
+
+**Application URL:**
+http://localhost:8000/admin
+
+**Credentials:**
+Email: admin@example.com
+Password: password
