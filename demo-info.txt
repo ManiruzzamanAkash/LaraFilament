@@ -878,3 +878,4 @@ Password: password
 - Added sample products to demo store
 - Created example orders for demo statistics
 - Configured test payment gateway with sandbox credentials
+- Configured test payment gateway with sandbox credentials
