@@ -129,3 +129,4 @@ Password: password
 - Added sample products to demo store
 - Created example orders for demo statistics
 - Added sample customer feedback messages
+- Configured email sending with Mailtrap.io
