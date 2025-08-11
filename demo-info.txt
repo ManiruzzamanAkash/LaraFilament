@@ -501,3 +501,4 @@ Password: password
 - Imported sample CSV data for testing
 - Configured tax settings for demo region
 - Added demo coupon codes for testing
+- Configured test payment gateway with sandbox credentials
