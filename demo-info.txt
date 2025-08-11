@@ -538,3 +538,4 @@ Password: password
 - Enabled debug mode for testing
 - Added sample customer feedback messages
 - Simulated failed payment scenarios
+- Updated admin panel theme color to dark mode
