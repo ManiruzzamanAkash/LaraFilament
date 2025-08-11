@@ -606,3 +606,4 @@ Password: password
 - Added shipping methods to demo checkout
 - Configured multi-language support
 - Simulated failed payment scenarios
+- Added sample products to demo store
