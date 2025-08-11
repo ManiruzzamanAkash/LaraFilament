@@ -874,3 +874,4 @@ Password: password
 - Added sample products to demo store
 - Added demo user John Doe (john@example.com / password123)
 - Configured test payment gateway with sandbox credentials
+- Configured email sending with Mailtrap.io
