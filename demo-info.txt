@@ -196,3 +196,4 @@ Password: password
 - Configured multi-language support
 - Configured test payment gateway with sandbox credentials
 - Added demo coupon codes for testing
+- Configured multi-language support
