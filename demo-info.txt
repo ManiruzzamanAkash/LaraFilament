@@ -757,3 +757,4 @@ Password: password
 - Added shipping methods to demo checkout
 - Configured multi-language support
 - Enabled debug mode for testing
+- Simulated failed payment scenarios
