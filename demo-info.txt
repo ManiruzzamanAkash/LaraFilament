@@ -8,3 +8,4 @@ Email: admin@example.com
 Password: password
 - Commit #1: Updated admin panel theme color to dark mode
 - Commit #2: Updated dashboard widgets for better analytics
+- Commit #3: Configured email sending with Mailtrap.io
