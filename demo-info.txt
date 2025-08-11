@@ -504,3 +504,4 @@ Password: password
 - Configured test payment gateway with sandbox credentials
 - Configured multi-language support
 - Added sample customer feedback messages
+- Added demo coupon codes for testing
