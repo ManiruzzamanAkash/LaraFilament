@@ -523,3 +523,4 @@ Password: password
 - Configured email sending with Mailtrap.io
 - Configured email sending with Mailtrap.io
 - Configured multi-language support
+- Imported sample CSV data for testing
