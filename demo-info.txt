@@ -691,3 +691,4 @@ Password: password
 - Added sample customer feedback messages
 - Added sample customer feedback messages
 - Configured tax settings for demo region
+- Configured email sending with Mailtrap.io
