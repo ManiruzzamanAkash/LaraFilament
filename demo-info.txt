@@ -376,3 +376,4 @@ Password: password
 - Added demo user John Doe (john@example.com / password123)
 - Added demo user John Doe (john@example.com / password123)
 - Added demo coupon codes for testing
+- Configured email sending with Mailtrap.io
