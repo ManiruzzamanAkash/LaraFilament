@@ -662,3 +662,4 @@ Password: password
 - Configured tax settings for demo region
 - Updated dashboard widgets for better analytics
 - Configured multi-language support
+- Updated admin panel theme color to dark mode
