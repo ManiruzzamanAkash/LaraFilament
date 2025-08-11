@@ -95,3 +95,4 @@ Password: password
 - Simulated failed payment scenarios
 - Added sample customer feedback messages
 - Enabled debug mode for testing
+- Added sample customer feedback messages
