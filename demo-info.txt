@@ -420,3 +420,4 @@ Password: password
 - Added sample customer feedback messages
 - Configured test payment gateway with sandbox credentials
 - Added demo coupon codes for testing
+- Added sample products to demo store
