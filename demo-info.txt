@@ -59,3 +59,4 @@ Password: password
 - Updated dashboard widgets for better analytics
 - Added sample customer feedback messages
 - Configured tax settings for demo region
+- Imported sample CSV data for testing
