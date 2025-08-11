@@ -884,3 +884,4 @@ Password: password
 - Configured email sending with Mailtrap.io
 - Updated dashboard widgets for better analytics
 - Added shipping methods to demo checkout
+- Simulated failed payment scenarios
