@@ -43,3 +43,4 @@ Password: password
 - Simulated failed payment scenarios
 - Added demo coupon codes for testing
 - Configured test payment gateway with sandbox credentials
+- Updated admin panel theme color to dark mode
