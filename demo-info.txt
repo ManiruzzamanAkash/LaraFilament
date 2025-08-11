@@ -70,3 +70,4 @@ Password: password
 - Configured tax settings for demo region
 - Imported sample CSV data for testing
 - Simulated failed payment scenarios
+- Updated dashboard widgets for better analytics
