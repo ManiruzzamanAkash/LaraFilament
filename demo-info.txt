@@ -599,3 +599,4 @@ Password: password
 - Updated dashboard widgets for better analytics
 - Simulated failed payment scenarios
 - Added demo user John Doe (john@example.com / password123)
+- Imported sample CSV data for testing
