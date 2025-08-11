@@ -312,3 +312,4 @@ Password: password
 - Added sample products to demo store
 - Configured tax settings for demo region
 - Added sample customer feedback messages
+- Added shipping methods to demo checkout
