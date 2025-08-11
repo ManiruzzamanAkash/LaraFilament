@@ -753,3 +753,4 @@ Password: password
 - Configured multi-language support
 - Added demo user John Doe (john@example.com / password123)
 - Configured tax settings for demo region
+- Configured email sending with Mailtrap.io
