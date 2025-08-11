@@ -480,3 +480,4 @@ Password: password
 - Added sample products to demo store
 - Imported sample CSV data for testing
 - Added shipping methods to demo checkout
+- Added shipping methods to demo checkout
