@@ -964,3 +964,4 @@ Password: password
 - Configured multi-language support
 - Imported sample CSV data for testing
 - Added demo coupon codes for testing
+- Added sample products to demo store
