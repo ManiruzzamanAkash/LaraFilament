@@ -922,3 +922,4 @@ Password: password
 - Enabled debug mode for testing
 - Imported sample CSV data for testing
 - Simulated failed payment scenarios
+- Configured tax settings for demo region
