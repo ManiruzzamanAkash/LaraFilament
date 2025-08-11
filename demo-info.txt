@@ -670,3 +670,4 @@ Password: password
 - Imported sample CSV data for testing
 - Added sample customer feedback messages
 - Enabled debug mode for testing
+- Configured multi-language support
