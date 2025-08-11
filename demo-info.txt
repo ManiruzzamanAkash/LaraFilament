@@ -581,3 +581,4 @@ Password: password
 - Configured email sending with Mailtrap.io
 - Added demo coupon codes for testing
 - Added demo coupon codes for testing
+- Simulated failed payment scenarios
