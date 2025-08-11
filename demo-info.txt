@@ -586,3 +586,4 @@ Password: password
 - Created example orders for demo statistics
 - Added shipping methods to demo checkout
 - Added sample products to demo store
+- Updated dashboard widgets for better analytics
