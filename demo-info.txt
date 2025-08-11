@@ -248,3 +248,4 @@ Password: password
 - Configured multi-language support
 - Created example orders for demo statistics
 - Configured email sending with Mailtrap.io
+- Added sample products to demo store
