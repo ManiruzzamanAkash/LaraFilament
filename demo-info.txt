@@ -470,3 +470,4 @@ Password: password
 - Enabled debug mode for testing
 - Configured email sending with Mailtrap.io
 - Created example orders for demo statistics
+- Enabled debug mode for testing
