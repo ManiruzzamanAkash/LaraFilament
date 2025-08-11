@@ -786,3 +786,4 @@ Password: password
 - Configured test payment gateway with sandbox credentials
 - Configured multi-language support
 - Enabled debug mode for testing
+- Added sample products to demo store
