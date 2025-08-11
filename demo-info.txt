@@ -976,3 +976,4 @@ Password: password
 - Configured multi-language support
 - Configured multi-language support
 - Enabled debug mode for testing
+- Updated admin panel theme color to dark mode
