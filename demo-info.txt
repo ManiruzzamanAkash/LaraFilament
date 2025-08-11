@@ -768,3 +768,4 @@ Password: password
 - Configured test payment gateway with sandbox credentials
 - Configured test payment gateway with sandbox credentials
 - Configured multi-language support
+- Configured test payment gateway with sandbox credentials
