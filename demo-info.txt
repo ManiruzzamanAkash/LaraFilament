@@ -163,3 +163,4 @@ Password: password
 - Configured multi-language support
 - Enabled debug mode for testing
 - Added demo coupon codes for testing
+- Configured test payment gateway with sandbox credentials
