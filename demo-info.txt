@@ -876,3 +876,4 @@ Password: password
 - Configured test payment gateway with sandbox credentials
 - Configured email sending with Mailtrap.io
 - Added sample products to demo store
+- Created example orders for demo statistics
