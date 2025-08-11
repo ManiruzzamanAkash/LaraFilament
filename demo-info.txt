@@ -331,3 +331,4 @@ Password: password
 - Simulated failed payment scenarios
 - Configured multi-language support
 - Configured tax settings for demo region
+- Configured multi-language support
