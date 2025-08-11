@@ -270,3 +270,4 @@ Password: password
 - Simulated failed payment scenarios
 - Imported sample CSV data for testing
 - Added sample customer feedback messages
+- Configured test payment gateway with sandbox credentials
