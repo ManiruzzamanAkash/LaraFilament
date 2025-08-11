@@ -485,3 +485,4 @@ Password: password
 - Configured multi-language support
 - Enabled debug mode for testing
 - Simulated failed payment scenarios
+- Added shipping methods to demo checkout
