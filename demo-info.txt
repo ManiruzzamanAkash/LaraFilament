@@ -159,3 +159,4 @@ Password: password
 - Updated admin panel theme color to dark mode
 - Added demo user John Doe (john@example.com / password123)
 - Created example orders for demo statistics
+- Updated admin panel theme color to dark mode
