@@ -53,3 +53,4 @@ Password: password
 - Added shipping methods to demo checkout
 - Configured multi-language support
 - Added shipping methods to demo checkout
+- Simulated failed payment scenarios
