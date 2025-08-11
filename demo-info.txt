@@ -742,3 +742,4 @@ Password: password
 - Configured multi-language support
 - Configured multi-language support
 - Configured multi-language support
+- Configured multi-language support
