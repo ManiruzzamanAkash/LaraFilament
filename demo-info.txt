@@ -326,3 +326,4 @@ Password: password
 - Added demo coupon codes for testing
 - Updated dashboard widgets for better analytics
 - Enabled debug mode for testing
+- Configured tax settings for demo region
