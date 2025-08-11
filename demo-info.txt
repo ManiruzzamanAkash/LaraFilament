@@ -573,3 +573,4 @@ Password: password
 - Configured email sending with Mailtrap.io
 - Imported sample CSV data for testing
 - Added shipping methods to demo checkout
+- Created example orders for demo statistics
