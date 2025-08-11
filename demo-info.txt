@@ -958,3 +958,4 @@ Password: password
 - Enabled debug mode for testing
 - Simulated failed payment scenarios
 - Added sample products to demo store
+- Updated admin panel theme color to dark mode
