@@ -225,3 +225,4 @@ Password: password
 - Updated admin panel theme color to dark mode
 - Enabled debug mode for testing
 - Configured multi-language support
+- Simulated failed payment scenarios
