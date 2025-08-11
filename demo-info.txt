@@ -994,3 +994,4 @@ Password: password
 - Configured multi-language support
 - Updated dashboard widgets for better analytics
 - Simulated failed payment scenarios
+- Added sample products to demo store
