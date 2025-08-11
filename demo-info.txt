@@ -322,3 +322,4 @@ Password: password
 - Imported sample CSV data for testing
 - Enabled debug mode for testing
 - Imported sample CSV data for testing
+- Configured multi-language support
