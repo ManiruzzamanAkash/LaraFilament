@@ -10,3 +10,4 @@ Password: password
 - Added shipping methods to demo checkout
 - Simulated failed payment scenarios
 - Added demo user John Doe (john@example.com / password123)
+- Configured test payment gateway with sandbox credentials
