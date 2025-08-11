@@ -783,3 +783,4 @@ Password: password
 - Configured test payment gateway with sandbox credentials
 - Updated dashboard widgets for better analytics
 - Added sample customer feedback messages
+- Configured test payment gateway with sandbox credentials
