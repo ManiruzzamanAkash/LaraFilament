@@ -495,3 +495,4 @@ Password: password
 - Configured test payment gateway with sandbox credentials
 - Configured test payment gateway with sandbox credentials
 - Imported sample CSV data for testing
+- Updated dashboard widgets for better analytics
