@@ -113,3 +113,4 @@ Password: password
 - Created example orders for demo statistics
 - Added sample products to demo store
 - Updated dashboard widgets for better analytics
+- Configured test payment gateway with sandbox credentials
