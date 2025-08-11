@@ -988,3 +988,4 @@ Password: password
 - Updated admin panel theme color to dark mode
 - Configured tax settings for demo region
 - Added sample products to demo store
+- Imported sample CSV data for testing
