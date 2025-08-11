@@ -986,3 +986,4 @@ Password: password
 - Updated dashboard widgets for better analytics
 - Configured email sending with Mailtrap.io
 - Updated admin panel theme color to dark mode
+- Configured tax settings for demo region
