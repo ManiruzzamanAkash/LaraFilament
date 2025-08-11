@@ -134,3 +134,4 @@ Password: password
 - Added sample products to demo store
 - Added sample customer feedback messages
 - Updated dashboard widgets for better analytics
+- Enabled debug mode for testing
