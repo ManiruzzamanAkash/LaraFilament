@@ -6,3 +6,4 @@ http://localhost:8000/admin
 **Credentials:**
 Email: admin@example.com
 Password: password
+- Added sample products to demo store
