@@ -73,3 +73,4 @@ Password: password
 - Updated dashboard widgets for better analytics
 - Added sample products to demo store
 - Configured multi-language support
+- Imported sample CSV data for testing
