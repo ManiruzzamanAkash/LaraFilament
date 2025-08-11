@@ -510,3 +510,4 @@ Password: password
 - Added demo coupon codes for testing
 - Simulated failed payment scenarios
 - Enabled debug mode for testing
+- Configured email sending with Mailtrap.io
