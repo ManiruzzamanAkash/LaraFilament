@@ -278,3 +278,4 @@ Password: password
 - Added sample customer feedback messages
 - Added sample customer feedback messages
 - Configured test payment gateway with sandbox credentials
+- Added sample products to demo store
