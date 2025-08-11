@@ -937,3 +937,4 @@ Password: password
 - Added sample products to demo store
 - Configured email sending with Mailtrap.io
 - Configured tax settings for demo region
+- Added demo coupon codes for testing
