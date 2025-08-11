@@ -950,3 +950,4 @@ Password: password
 - Configured tax settings for demo region
 - Created example orders for demo statistics
 - Updated dashboard widgets for better analytics
+- Created example orders for demo statistics
