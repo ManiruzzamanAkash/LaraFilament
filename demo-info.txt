@@ -918,3 +918,4 @@ Password: password
 - Added shipping methods to demo checkout
 - Configured email sending with Mailtrap.io
 - Configured multi-language support
+- Added demo user John Doe (john@example.com / password123)
