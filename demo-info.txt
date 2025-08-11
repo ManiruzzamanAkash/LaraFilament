@@ -673,3 +673,4 @@ Password: password
 - Configured multi-language support
 - Enabled debug mode for testing
 - Added demo user John Doe (john@example.com / password123)
+- Imported sample CSV data for testing
