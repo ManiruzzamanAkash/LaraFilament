@@ -192,3 +192,4 @@ Password: password
 - Added sample customer feedback messages
 - Added sample products to demo store
 - Added shipping methods to demo checkout
+- Added sample customer feedback messages
