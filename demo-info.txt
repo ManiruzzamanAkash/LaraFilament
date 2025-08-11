@@ -343,3 +343,4 @@ Password: password
 - Simulated failed payment scenarios
 - Created example orders for demo statistics
 - Added sample products to demo store
+- Configured email sending with Mailtrap.io
