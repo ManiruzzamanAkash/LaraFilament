@@ -569,3 +569,4 @@ Password: password
 - Created example orders for demo statistics
 - Created example orders for demo statistics
 - Added demo user John Doe (john@example.com / password123)
+- Added demo user John Doe (john@example.com / password123)
