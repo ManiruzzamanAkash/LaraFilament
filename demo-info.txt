@@ -408,3 +408,4 @@ Password: password
 - Simulated failed payment scenarios
 - Enabled debug mode for testing
 - Added demo coupon codes for testing
+- Created example orders for demo statistics
