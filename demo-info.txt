@@ -710,3 +710,4 @@ Password: password
 - Configured multi-language support
 - Simulated failed payment scenarios
 - Configured email sending with Mailtrap.io
+- Updated admin panel theme color to dark mode
