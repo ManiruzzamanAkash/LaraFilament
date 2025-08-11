@@ -695,3 +695,4 @@ Password: password
 - Added shipping methods to demo checkout
 - Added demo user John Doe (john@example.com / password123)
 - Added sample products to demo store
+- Imported sample CSV data for testing
