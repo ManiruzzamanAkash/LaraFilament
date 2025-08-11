@@ -824,3 +824,4 @@ Password: password
 - Configured multi-language support
 - Added sample products to demo store
 - Added demo coupon codes for testing
+- Configured test payment gateway with sandbox credentials
