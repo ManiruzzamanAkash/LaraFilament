@@ -893,3 +893,4 @@ Password: password
 - Configured multi-language support
 - Updated admin panel theme color to dark mode
 - Simulated failed payment scenarios
+- Added sample products to demo store
