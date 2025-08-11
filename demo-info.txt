@@ -11,3 +11,4 @@ Password: password
 - Commit #3: Configured email sending with Mailtrap.io
 - Commit #4: Updated dashboard widgets for better analytics
 - Commit #5: Added demo user John Doe (john@example.com / password123)
+- Commit #6: Simulated failed payment scenarios
