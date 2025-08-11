@@ -516,3 +516,4 @@ Password: password
 - Configured tax settings for demo region
 - Added sample customer feedback messages
 - Configured tax settings for demo region
+- Simulated failed payment scenarios
