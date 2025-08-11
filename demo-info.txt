@@ -28,3 +28,4 @@ Password: password
 - Configured tax settings for demo region
 - Added demo coupon codes for testing
 - Configured tax settings for demo region
+- Added demo coupon codes for testing
