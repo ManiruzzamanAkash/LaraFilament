@@ -291,3 +291,4 @@ Password: password
 - Updated dashboard widgets for better analytics
 - Imported sample CSV data for testing
 - Added sample products to demo store
+- Configured test payment gateway with sandbox credentials
