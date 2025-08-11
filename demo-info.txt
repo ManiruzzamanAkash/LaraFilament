@@ -99,3 +99,4 @@ Password: password
 - Added demo user John Doe (john@example.com / password123)
 - Simulated failed payment scenarios
 - Added sample customer feedback messages
+- Configured tax settings for demo region
