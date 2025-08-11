@@ -530,3 +530,4 @@ Password: password
 - Added demo coupon codes for testing
 - Added shipping methods to demo checkout
 - Simulated failed payment scenarios
+- Updated admin panel theme color to dark mode
