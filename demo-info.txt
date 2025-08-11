@@ -60,3 +60,4 @@ Password: password
 - Added sample customer feedback messages
 - Configured tax settings for demo region
 - Imported sample CSV data for testing
+- Added shipping methods to demo checkout
