@@ -533,3 +533,4 @@ Password: password
 - Updated admin panel theme color to dark mode
 - Added shipping methods to demo checkout
 - Updated admin panel theme color to dark mode
+- Configured test payment gateway with sandbox credentials
