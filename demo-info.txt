@@ -468,3 +468,4 @@ Password: password
 - Configured test payment gateway with sandbox credentials
 - Configured test payment gateway with sandbox credentials
 - Enabled debug mode for testing
+- Configured email sending with Mailtrap.io
