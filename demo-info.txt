@@ -872,3 +872,4 @@ Password: password
 - Configured test payment gateway with sandbox credentials
 - Simulated failed payment scenarios
 - Added sample products to demo store
+- Added demo user John Doe (john@example.com / password123)
