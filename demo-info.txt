@@ -97,3 +97,4 @@ Password: password
 - Enabled debug mode for testing
 - Added sample customer feedback messages
 - Added demo user John Doe (john@example.com / password123)
+- Simulated failed payment scenarios
