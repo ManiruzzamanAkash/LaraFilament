@@ -18,3 +18,4 @@ Password: password
 - Simulated failed payment scenarios
 - Configured multi-language support
 - Added sample customer feedback messages
+- Configured email sending with Mailtrap.io
