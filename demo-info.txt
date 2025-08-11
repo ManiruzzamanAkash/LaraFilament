@@ -254,3 +254,4 @@ Password: password
 - Added sample customer feedback messages
 - Configured email sending with Mailtrap.io
 - Added demo user John Doe (john@example.com / password123)
+- Added sample products to demo store
