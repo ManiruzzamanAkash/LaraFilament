@@ -249,3 +249,4 @@ Password: password
 - Created example orders for demo statistics
 - Configured email sending with Mailtrap.io
 - Added sample products to demo store
+- Added sample products to demo store
