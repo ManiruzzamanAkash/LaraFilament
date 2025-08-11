@@ -552,3 +552,4 @@ Password: password
 - Added shipping methods to demo checkout
 - Enabled debug mode for testing
 - Configured test payment gateway with sandbox credentials
+- Updated admin panel theme color to dark mode
