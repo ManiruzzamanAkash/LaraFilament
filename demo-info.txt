@@ -302,3 +302,4 @@ Password: password
 - Created example orders for demo statistics
 - Simulated failed payment scenarios
 - Added shipping methods to demo checkout
+- Added demo user John Doe (john@example.com / password123)
