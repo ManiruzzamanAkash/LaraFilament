@@ -639,3 +639,4 @@ Password: password
 - Updated admin panel theme color to dark mode
 - Enabled debug mode for testing
 - Updated dashboard widgets for better analytics
+- Added demo coupon codes for testing
