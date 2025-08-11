@@ -995,3 +995,4 @@ Password: password
 - Updated dashboard widgets for better analytics
 - Simulated failed payment scenarios
 - Added sample products to demo store
+- Added demo coupon codes for testing
