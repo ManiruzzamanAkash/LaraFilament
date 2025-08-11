@@ -273,3 +273,4 @@ Password: password
 - Configured test payment gateway with sandbox credentials
 - Simulated failed payment scenarios
 - Added sample customer feedback messages
+- Updated admin panel theme color to dark mode
