@@ -226,3 +226,4 @@ Password: password
 - Enabled debug mode for testing
 - Configured multi-language support
 - Simulated failed payment scenarios
+- Imported sample CSV data for testing
