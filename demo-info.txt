@@ -735,3 +735,4 @@ Password: password
 - Updated admin panel theme color to dark mode
 - Configured email sending with Mailtrap.io
 - Added sample customer feedback messages
+- Added shipping methods to demo checkout
