@@ -914,3 +914,4 @@ Password: password
 - Updated admin panel theme color to dark mode
 - Imported sample CSV data for testing
 - Updated dashboard widgets for better analytics
+- Configured test payment gateway with sandbox credentials
