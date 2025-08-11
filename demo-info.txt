@@ -656,3 +656,4 @@ Password: password
 - Configured tax settings for demo region
 - Updated dashboard widgets for better analytics
 - Added sample customer feedback messages
+- Simulated failed payment scenarios
