@@ -857,3 +857,4 @@ Password: password
 - Configured multi-language support
 - Added sample products to demo store
 - Added sample products to demo store
+- Imported sample CSV data for testing
