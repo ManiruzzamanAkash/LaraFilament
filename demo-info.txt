@@ -785,3 +785,4 @@ Password: password
 - Added sample customer feedback messages
 - Configured test payment gateway with sandbox credentials
 - Configured multi-language support
+- Enabled debug mode for testing
