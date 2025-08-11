@@ -122,3 +122,4 @@ Password: password
 - Added sample customer feedback messages
 - Added sample products to demo store
 - Updated dashboard widgets for better analytics
+- Created example orders for demo statistics
