@@ -390,3 +390,4 @@ Password: password
 - Added sample products to demo store
 - Added sample customer feedback messages
 - Configured multi-language support
+- Configured tax settings for demo region
