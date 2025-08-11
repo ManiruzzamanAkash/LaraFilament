@@ -253,3 +253,4 @@ Password: password
 - Configured multi-language support
 - Added sample customer feedback messages
 - Configured email sending with Mailtrap.io
+- Added demo user John Doe (john@example.com / password123)
