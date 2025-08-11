@@ -917,3 +917,4 @@ Password: password
 - Configured test payment gateway with sandbox credentials
 - Added shipping methods to demo checkout
 - Configured email sending with Mailtrap.io
+- Configured multi-language support
