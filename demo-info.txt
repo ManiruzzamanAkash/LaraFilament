@@ -584,3 +584,4 @@ Password: password
 - Simulated failed payment scenarios
 - Imported sample CSV data for testing
 - Created example orders for demo statistics
+- Added shipping methods to demo checkout
