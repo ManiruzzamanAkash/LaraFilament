@@ -879,3 +879,4 @@ Password: password
 - Created example orders for demo statistics
 - Configured test payment gateway with sandbox credentials
 - Configured test payment gateway with sandbox credentials
+- Added shipping methods to demo checkout
