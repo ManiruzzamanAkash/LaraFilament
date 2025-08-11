@@ -997,3 +997,4 @@ Password: password
 - Added sample products to demo store
 - Added demo coupon codes for testing
 - Created example orders for demo statistics
+- Added shipping methods to demo checkout
