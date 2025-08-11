@@ -154,3 +154,4 @@ Password: password
 - Enabled debug mode for testing
 - Added demo user John Doe (john@example.com / password123)
 - Updated admin panel theme color to dark mode
+- Enabled debug mode for testing
