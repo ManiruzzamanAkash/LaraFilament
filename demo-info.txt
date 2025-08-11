@@ -100,3 +100,4 @@ Password: password
 - Simulated failed payment scenarios
 - Added sample customer feedback messages
 - Configured tax settings for demo region
+- Created example orders for demo statistics
