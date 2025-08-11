@@ -827,3 +827,4 @@ Password: password
 - Configured test payment gateway with sandbox credentials
 - Configured test payment gateway with sandbox credentials
 - Created example orders for demo statistics
+- Added sample customer feedback messages
