@@ -563,3 +563,4 @@ Password: password
 - Configured email sending with Mailtrap.io
 - Added sample products to demo store
 - Added sample products to demo store
+- Added shipping methods to demo checkout
