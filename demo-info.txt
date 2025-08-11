@@ -198,3 +198,4 @@ Password: password
 - Added demo coupon codes for testing
 - Configured multi-language support
 - Added demo coupon codes for testing
+- Added shipping methods to demo checkout
