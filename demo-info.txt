@@ -414,3 +414,4 @@ Password: password
 - Added shipping methods to demo checkout
 - Configured tax settings for demo region
 - Added demo user John Doe (john@example.com / password123)
+- Updated admin panel theme color to dark mode
