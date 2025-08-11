@@ -776,3 +776,4 @@ Password: password
 - Configured multi-language support
 - Configured email sending with Mailtrap.io
 - Configured test payment gateway with sandbox credentials
+- Enabled debug mode for testing
