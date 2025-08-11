@@ -233,3 +233,4 @@ Password: password
 - Simulated failed payment scenarios
 - Added shipping methods to demo checkout
 - Configured tax settings for demo region
+- Configured multi-language support
