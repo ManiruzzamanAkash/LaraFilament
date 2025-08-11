@@ -913,3 +913,4 @@ Password: password
 - Updated admin panel theme color to dark mode
 - Updated admin panel theme color to dark mode
 - Imported sample CSV data for testing
+- Updated dashboard widgets for better analytics
