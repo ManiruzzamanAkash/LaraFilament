@@ -44,3 +44,4 @@ Password: password
 - Added demo coupon codes for testing
 - Configured test payment gateway with sandbox credentials
 - Updated admin panel theme color to dark mode
+- Configured test payment gateway with sandbox credentials
