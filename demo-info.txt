@@ -901,3 +901,4 @@ Password: password
 - Created example orders for demo statistics
 - Added sample products to demo store
 - Added shipping methods to demo checkout
+- Updated dashboard widgets for better analytics
