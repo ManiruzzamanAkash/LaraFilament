@@ -143,3 +143,4 @@ Password: password
 - Simulated failed payment scenarios
 - Created example orders for demo statistics
 - Enabled debug mode for testing
+- Updated admin panel theme color to dark mode
