@@ -928,3 +928,4 @@ Password: password
 - Added shipping methods to demo checkout
 - Created example orders for demo statistics
 - Simulated failed payment scenarios
+- Configured test payment gateway with sandbox credentials
