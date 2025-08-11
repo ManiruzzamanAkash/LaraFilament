@@ -760,3 +760,4 @@ Password: password
 - Simulated failed payment scenarios
 - Enabled debug mode for testing
 - Created example orders for demo statistics
+- Configured test payment gateway with sandbox credentials
