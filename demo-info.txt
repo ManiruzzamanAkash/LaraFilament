@@ -974,3 +974,4 @@ Password: password
 - Added sample products to demo store
 - Imported sample CSV data for testing
 - Configured multi-language support
+- Configured multi-language support
