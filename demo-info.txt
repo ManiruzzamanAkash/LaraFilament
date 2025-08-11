@@ -705,3 +705,4 @@ Password: password
 - Added sample products to demo store
 - Added sample products to demo store
 - Configured tax settings for demo region
+- Imported sample CSV data for testing
