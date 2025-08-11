@@ -631,3 +631,4 @@ Password: password
 - Simulated failed payment scenarios
 - Added sample products to demo store
 - Enabled debug mode for testing
+- Configured multi-language support
