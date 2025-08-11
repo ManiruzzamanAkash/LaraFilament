@@ -520,3 +520,4 @@ Password: password
 - Simulated failed payment scenarios
 - Configured test payment gateway with sandbox credentials
 - Updated admin panel theme color to dark mode
+- Configured email sending with Mailtrap.io
