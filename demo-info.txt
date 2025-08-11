@@ -861,3 +861,4 @@ Password: password
 - Configured email sending with Mailtrap.io
 - Added sample products to demo store
 - Configured email sending with Mailtrap.io
+- Added shipping methods to demo checkout
