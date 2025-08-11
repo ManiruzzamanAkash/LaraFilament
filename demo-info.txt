@@ -315,3 +315,4 @@ Password: password
 - Added shipping methods to demo checkout
 - Added shipping methods to demo checkout
 - Imported sample CSV data for testing
+- Simulated failed payment scenarios
