@@ -133,3 +133,4 @@ Password: password
 - Enabled debug mode for testing
 - Added sample products to demo store
 - Added sample customer feedback messages
+- Updated dashboard widgets for better analytics
