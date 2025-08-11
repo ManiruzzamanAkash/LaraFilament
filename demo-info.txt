@@ -349,3 +349,4 @@ Password: password
 - Imported sample CSV data for testing
 - Configured email sending with Mailtrap.io
 - Added demo coupon codes for testing
+- Added shipping methods to demo checkout
