@@ -338,3 +338,4 @@ Password: password
 - Added demo coupon codes for testing
 - Configured test payment gateway with sandbox credentials
 - Created example orders for demo statistics
+- Imported sample CSV data for testing
