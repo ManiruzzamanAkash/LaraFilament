@@ -829,3 +829,4 @@ Password: password
 - Created example orders for demo statistics
 - Added sample customer feedback messages
 - Configured multi-language support
+- Added sample products to demo store
