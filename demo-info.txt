@@ -992,3 +992,4 @@ Password: password
 - Configured tax settings for demo region
 - Added shipping methods to demo checkout
 - Configured multi-language support
+- Updated dashboard widgets for better analytics
