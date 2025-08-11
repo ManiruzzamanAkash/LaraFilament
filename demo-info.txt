@@ -558,3 +558,4 @@ Password: password
 - Added sample products to demo store
 - Created example orders for demo statistics
 - Enabled debug mode for testing
+- Created example orders for demo statistics
