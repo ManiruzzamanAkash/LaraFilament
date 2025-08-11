@@ -388,3 +388,4 @@ Password: password
 - Added sample customer feedback messages
 - Added shipping methods to demo checkout
 - Added sample products to demo store
+- Added sample customer feedback messages
