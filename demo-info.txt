@@ -218,3 +218,4 @@ Password: password
 - Configured multi-language support
 - Configured test payment gateway with sandbox credentials
 - Added shipping methods to demo checkout
+- Configured email sending with Mailtrap.io
