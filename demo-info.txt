@@ -90,3 +90,4 @@ Password: password
 - Imported sample CSV data for testing
 - Imported sample CSV data for testing
 - Imported sample CSV data for testing
+- Added demo coupon codes for testing
