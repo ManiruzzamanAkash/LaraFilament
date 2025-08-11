@@ -593,3 +593,4 @@ Password: password
 - Simulated failed payment scenarios
 - Configured email sending with Mailtrap.io
 - Added demo coupon codes for testing
+- Added sample customer feedback messages
