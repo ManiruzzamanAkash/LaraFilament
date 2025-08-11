@@ -959,3 +959,4 @@ Password: password
 - Simulated failed payment scenarios
 - Added sample products to demo store
 - Updated admin panel theme color to dark mode
+- Configured tax settings for demo region
