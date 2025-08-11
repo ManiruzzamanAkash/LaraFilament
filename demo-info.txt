@@ -240,3 +240,4 @@ Password: password
 - Added sample products to demo store
 - Added sample customer feedback messages
 - Updated dashboard widgets for better analytics
+- Added demo user John Doe (john@example.com / password123)
