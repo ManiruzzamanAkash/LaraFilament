@@ -671,3 +671,4 @@ Password: password
 - Added sample customer feedback messages
 - Enabled debug mode for testing
 - Configured multi-language support
+- Enabled debug mode for testing
