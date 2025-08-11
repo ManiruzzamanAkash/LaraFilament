@@ -132,3 +132,4 @@ Password: password
 - Configured email sending with Mailtrap.io
 - Enabled debug mode for testing
 - Added sample products to demo store
+- Added sample customer feedback messages
