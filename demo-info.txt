@@ -975,3 +975,4 @@ Password: password
 - Imported sample CSV data for testing
 - Configured multi-language support
 - Configured multi-language support
+- Enabled debug mode for testing
