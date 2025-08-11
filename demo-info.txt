@@ -858,3 +858,4 @@ Password: password
 - Added sample products to demo store
 - Added sample products to demo store
 - Imported sample CSV data for testing
+- Configured email sending with Mailtrap.io
