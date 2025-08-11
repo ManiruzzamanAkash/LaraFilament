@@ -152,3 +152,4 @@ Password: password
 - Configured test payment gateway with sandbox credentials
 - Added sample customer feedback messages
 - Enabled debug mode for testing
+- Added demo user John Doe (john@example.com / password123)
