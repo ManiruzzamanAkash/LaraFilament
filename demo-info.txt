@@ -791,3 +791,4 @@ Password: password
 - Simulated failed payment scenarios
 - Updated admin panel theme color to dark mode
 - Updated admin panel theme color to dark mode
+- Configured tax settings for demo region
