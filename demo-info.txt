@@ -713,3 +713,4 @@ Password: password
 - Updated admin panel theme color to dark mode
 - Added shipping methods to demo checkout
 - Simulated failed payment scenarios
+- Enabled debug mode for testing
