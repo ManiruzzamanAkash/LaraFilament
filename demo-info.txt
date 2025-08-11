@@ -227,3 +227,4 @@ Password: password
 - Configured multi-language support
 - Simulated failed payment scenarios
 - Imported sample CSV data for testing
+- Added shipping methods to demo checkout
