@@ -74,3 +74,4 @@ Password: password
 - Added sample products to demo store
 - Configured multi-language support
 - Imported sample CSV data for testing
+- Added shipping methods to demo checkout
