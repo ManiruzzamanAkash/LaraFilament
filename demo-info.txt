@@ -904,3 +904,4 @@ Password: password
 - Updated dashboard widgets for better analytics
 - Added demo coupon codes for testing
 - Updated admin panel theme color to dark mode
+- Simulated failed payment scenarios
