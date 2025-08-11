@@ -677,3 +677,4 @@ Password: password
 - Enabled debug mode for testing
 - Added sample customer feedback messages
 - Added sample products to demo store
+- Configured email sending with Mailtrap.io
