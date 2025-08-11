@@ -252,3 +252,4 @@ Password: password
 - Added sample products to demo store
 - Configured multi-language support
 - Added sample customer feedback messages
+- Configured email sending with Mailtrap.io
