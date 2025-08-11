@@ -624,3 +624,4 @@ Password: password
 - Added sample products to demo store
 - Updated dashboard widgets for better analytics
 - Configured email sending with Mailtrap.io
+- Configured email sending with Mailtrap.io
