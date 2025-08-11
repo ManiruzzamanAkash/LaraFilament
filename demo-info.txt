@@ -464,3 +464,4 @@ Password: password
 - Configured multi-language support
 - Added demo coupon codes for testing
 - Enabled debug mode for testing
+- Configured tax settings for demo region
