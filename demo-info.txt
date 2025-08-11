@@ -454,3 +454,4 @@ Password: password
 - Added demo user John Doe (john@example.com / password123)
 - Added demo coupon codes for testing
 - Simulated failed payment scenarios
+- Simulated failed payment scenarios
