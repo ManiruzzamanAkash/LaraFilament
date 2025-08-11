@@ -700,3 +700,4 @@ Password: password
 - Created example orders for demo statistics
 - Configured multi-language support
 - Imported sample CSV data for testing
+- Added demo user John Doe (john@example.com / password123)
