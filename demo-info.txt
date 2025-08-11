@@ -555,3 +555,4 @@ Password: password
 - Updated admin panel theme color to dark mode
 - Enabled debug mode for testing
 - Added sample products to demo store
+- Added sample products to demo store
