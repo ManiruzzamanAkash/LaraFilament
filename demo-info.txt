@@ -403,3 +403,4 @@ Password: password
 - Configured multi-language support
 - Configured test payment gateway with sandbox credentials
 - Enabled debug mode for testing
+- Added demo user John Doe (john@example.com / password123)
