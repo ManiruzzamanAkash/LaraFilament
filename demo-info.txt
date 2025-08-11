@@ -499,3 +499,4 @@ Password: password
 - Configured email sending with Mailtrap.io
 - Imported sample CSV data for testing
 - Imported sample CSV data for testing
+- Configured tax settings for demo region
