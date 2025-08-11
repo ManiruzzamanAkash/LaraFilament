@@ -595,3 +595,4 @@ Password: password
 - Added demo coupon codes for testing
 - Added sample customer feedback messages
 - Enabled debug mode for testing
+- Enabled debug mode for testing
