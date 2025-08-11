@@ -880,3 +880,4 @@ Password: password
 - Configured test payment gateway with sandbox credentials
 - Configured test payment gateway with sandbox credentials
 - Added shipping methods to demo checkout
+- Simulated failed payment scenarios
