@@ -128,3 +128,4 @@ Password: password
 - Simulated failed payment scenarios
 - Added sample products to demo store
 - Created example orders for demo statistics
+- Added sample customer feedback messages
