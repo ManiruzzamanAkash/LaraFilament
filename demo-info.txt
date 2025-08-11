@@ -694,3 +694,4 @@ Password: password
 - Configured email sending with Mailtrap.io
 - Added shipping methods to demo checkout
 - Added demo user John Doe (john@example.com / password123)
+- Added sample products to demo store
