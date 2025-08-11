@@ -830,3 +830,4 @@ Password: password
 - Added sample customer feedback messages
 - Configured multi-language support
 - Added sample products to demo store
+- Simulated failed payment scenarios
