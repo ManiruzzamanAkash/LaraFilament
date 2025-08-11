@@ -640,3 +640,4 @@ Password: password
 - Enabled debug mode for testing
 - Updated dashboard widgets for better analytics
 - Added demo coupon codes for testing
+- Added shipping methods to demo checkout
