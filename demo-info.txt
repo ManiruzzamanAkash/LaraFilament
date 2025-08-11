@@ -256,3 +256,4 @@ Password: password
 - Added demo user John Doe (john@example.com / password123)
 - Added sample products to demo store
 - Imported sample CSV data for testing
+- Configured tax settings for demo region
