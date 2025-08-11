@@ -149,3 +149,4 @@ Password: password
 - Configured tax settings for demo region
 - Enabled debug mode for testing
 - Configured multi-language support
+- Configured test payment gateway with sandbox credentials
