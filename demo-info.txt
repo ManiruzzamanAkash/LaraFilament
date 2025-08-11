@@ -940,3 +940,4 @@ Password: password
 - Added demo coupon codes for testing
 - Simulated failed payment scenarios
 - Added demo coupon codes for testing
+- Added demo coupon codes for testing
