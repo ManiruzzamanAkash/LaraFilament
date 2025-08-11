@@ -855,3 +855,4 @@ Password: password
 - Imported sample CSV data for testing
 - Configured email sending with Mailtrap.io
 - Configured multi-language support
+- Added sample products to demo store
