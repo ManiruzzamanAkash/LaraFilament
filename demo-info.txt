@@ -946,3 +946,4 @@ Password: password
 - Configured email sending with Mailtrap.io
 - Added demo coupon codes for testing
 - Added sample products to demo store
+- Created example orders for demo statistics
