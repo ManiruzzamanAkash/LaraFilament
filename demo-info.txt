@@ -844,3 +844,4 @@ Password: password
 - Enabled debug mode for testing
 - Created example orders for demo statistics
 - Created example orders for demo statistics
+- Configured email sending with Mailtrap.io
