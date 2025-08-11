@@ -678,3 +678,4 @@ Password: password
 - Added sample customer feedback messages
 - Added sample products to demo store
 - Configured email sending with Mailtrap.io
+- Enabled debug mode for testing
