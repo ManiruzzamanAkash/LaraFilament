@@ -224,3 +224,4 @@ Password: password
 - Created example orders for demo statistics
 - Updated admin panel theme color to dark mode
 - Enabled debug mode for testing
+- Configured multi-language support
