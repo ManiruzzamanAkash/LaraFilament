@@ -1001,3 +1001,4 @@ Password: password
 - Configured multi-language support
 - Added sample customer feedback messages
 - Created example orders for demo statistics
+- Configured tax settings for demo region
