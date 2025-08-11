@@ -438,3 +438,4 @@ Password: password
 - Added sample products to demo store
 - Simulated failed payment scenarios
 - Added demo coupon codes for testing
+- Imported sample CSV data for testing
