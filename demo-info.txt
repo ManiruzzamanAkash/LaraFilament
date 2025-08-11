@@ -323,3 +323,4 @@ Password: password
 - Enabled debug mode for testing
 - Imported sample CSV data for testing
 - Configured multi-language support
+- Added demo coupon codes for testing
