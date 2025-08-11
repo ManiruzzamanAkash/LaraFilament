@@ -1002,3 +1002,4 @@ Password: password
 - Added sample customer feedback messages
 - Created example orders for demo statistics
 - Configured tax settings for demo region
+- Configured tax settings for demo region
