@@ -709,3 +709,4 @@ Password: password
 - Added shipping methods to demo checkout
 - Configured multi-language support
 - Simulated failed payment scenarios
+- Configured email sending with Mailtrap.io
