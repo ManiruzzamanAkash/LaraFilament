@@ -508,3 +508,4 @@ Password: password
 - Added sample customer feedback messages
 - Added sample customer feedback messages
 - Added demo coupon codes for testing
+- Simulated failed payment scenarios
