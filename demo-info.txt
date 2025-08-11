@@ -111,3 +111,4 @@ Password: password
 - Imported sample CSV data for testing
 - Enabled debug mode for testing
 - Created example orders for demo statistics
+- Added sample products to demo store
