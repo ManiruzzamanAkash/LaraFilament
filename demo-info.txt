@@ -749,3 +749,4 @@ Password: password
 - Configured test payment gateway with sandbox credentials
 - Added shipping methods to demo checkout
 - Added sample customer feedback messages
+- Added sample products to demo store
