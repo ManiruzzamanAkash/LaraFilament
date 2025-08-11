@@ -231,3 +231,4 @@ Password: password
 - Configured email sending with Mailtrap.io
 - Added sample products to demo store
 - Simulated failed payment scenarios
+- Added shipping methods to demo checkout
