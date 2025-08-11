@@ -715,3 +715,4 @@ Password: password
 - Simulated failed payment scenarios
 - Enabled debug mode for testing
 - Added demo user John Doe (john@example.com / password123)
+- Imported sample CSV data for testing
