@@ -957,3 +957,4 @@ Password: password
 - Added demo user John Doe (john@example.com / password123)
 - Enabled debug mode for testing
 - Simulated failed payment scenarios
+- Added sample products to demo store
