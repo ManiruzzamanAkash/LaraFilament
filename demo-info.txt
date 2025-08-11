@@ -653,3 +653,4 @@ Password: password
 - Added sample products to demo store
 - Updated admin panel theme color to dark mode
 - Enabled debug mode for testing
+- Configured tax settings for demo region
