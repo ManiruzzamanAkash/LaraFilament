@@ -321,3 +321,4 @@ Password: password
 - Updated admin panel theme color to dark mode
 - Imported sample CSV data for testing
 - Enabled debug mode for testing
+- Imported sample CSV data for testing
