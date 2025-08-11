@@ -541,3 +541,4 @@ Password: password
 - Updated admin panel theme color to dark mode
 - Configured tax settings for demo region
 - Configured email sending with Mailtrap.io
+- Configured test payment gateway with sandbox credentials
