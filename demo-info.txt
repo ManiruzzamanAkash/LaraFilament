@@ -614,3 +614,4 @@ Password: password
 - Configured test payment gateway with sandbox credentials
 - Added sample customer feedback messages
 - Added demo coupon codes for testing
+- Enabled debug mode for testing
