@@ -124,3 +124,4 @@ Password: password
 - Updated dashboard widgets for better analytics
 - Created example orders for demo statistics
 - Added sample products to demo store
+- Simulated failed payment scenarios
