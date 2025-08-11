@@ -109,3 +109,4 @@ Password: password
 - Updated admin panel theme color to dark mode
 - Added demo user John Doe (john@example.com / password123)
 - Imported sample CSV data for testing
+- Enabled debug mode for testing
