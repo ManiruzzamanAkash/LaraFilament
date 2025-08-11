@@ -993,3 +993,4 @@ Password: password
 - Added shipping methods to demo checkout
 - Configured multi-language support
 - Updated dashboard widgets for better analytics
+- Simulated failed payment scenarios
