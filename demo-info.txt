@@ -819,3 +819,4 @@ Password: password
 - Added shipping methods to demo checkout
 - Imported sample CSV data for testing
 - Configured multi-language support
+- Added sample products to demo store
