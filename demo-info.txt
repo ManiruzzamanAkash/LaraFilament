@@ -229,3 +229,4 @@ Password: password
 - Imported sample CSV data for testing
 - Added shipping methods to demo checkout
 - Configured email sending with Mailtrap.io
+- Added sample products to demo store
