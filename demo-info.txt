@@ -162,3 +162,4 @@ Password: password
 - Updated admin panel theme color to dark mode
 - Configured multi-language support
 - Enabled debug mode for testing
+- Added demo coupon codes for testing
