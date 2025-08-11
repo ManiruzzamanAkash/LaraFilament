@@ -684,3 +684,4 @@ Password: password
 - Added shipping methods to demo checkout
 - Added sample products to demo store
 - Added shipping methods to demo checkout
+- Enabled debug mode for testing
