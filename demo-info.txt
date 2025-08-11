@@ -645,3 +645,4 @@ Password: password
 - Added sample customer feedback messages
 - Configured tax settings for demo region
 - Updated admin panel theme color to dark mode
+- Added shipping methods to demo checkout
