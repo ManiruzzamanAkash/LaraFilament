@@ -220,3 +220,4 @@ Password: password
 - Added shipping methods to demo checkout
 - Configured email sending with Mailtrap.io
 - Configured tax settings for demo region
+- Imported sample CSV data for testing
