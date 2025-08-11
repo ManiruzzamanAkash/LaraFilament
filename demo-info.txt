@@ -210,3 +210,4 @@ Password: password
 - Added shipping methods to demo checkout
 - Configured multi-language support
 - Simulated failed payment scenarios
+- Created example orders for demo statistics
