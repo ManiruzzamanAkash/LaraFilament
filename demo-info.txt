@@ -389,3 +389,4 @@ Password: password
 - Added shipping methods to demo checkout
 - Added sample products to demo store
 - Added sample customer feedback messages
+- Configured multi-language support
