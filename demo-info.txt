@@ -340,3 +340,4 @@ Password: password
 - Created example orders for demo statistics
 - Imported sample CSV data for testing
 - Added shipping methods to demo checkout
+- Simulated failed payment scenarios
