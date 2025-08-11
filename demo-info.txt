@@ -180,3 +180,4 @@ Password: password
 - Added sample customer feedback messages
 - Imported sample CSV data for testing
 - Configured multi-language support
+- Updated admin panel theme color to dark mode
