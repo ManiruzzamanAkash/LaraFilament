@@ -365,3 +365,4 @@ Password: password
 - Simulated failed payment scenarios
 - Updated dashboard widgets for better analytics
 - Added demo coupon codes for testing
+- Added demo user John Doe (john@example.com / password123)
