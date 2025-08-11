@@ -494,3 +494,4 @@ Password: password
 - Updated admin panel theme color to dark mode
 - Configured test payment gateway with sandbox credentials
 - Configured test payment gateway with sandbox credentials
+- Imported sample CSV data for testing
