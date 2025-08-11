@@ -96,3 +96,4 @@ Password: password
 - Added sample customer feedback messages
 - Enabled debug mode for testing
 - Added sample customer feedback messages
+- Added demo user John Doe (john@example.com / password123)
