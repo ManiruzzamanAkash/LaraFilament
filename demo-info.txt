@@ -605,3 +605,4 @@ Password: password
 - Added demo user John Doe (john@example.com / password123)
 - Added shipping methods to demo checkout
 - Configured multi-language support
+- Simulated failed payment scenarios
