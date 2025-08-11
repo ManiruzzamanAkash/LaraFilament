@@ -891,3 +891,4 @@ Password: password
 - Created example orders for demo statistics
 - Added demo coupon codes for testing
 - Configured multi-language support
+- Updated admin panel theme color to dark mode
