@@ -938,3 +938,4 @@ Password: password
 - Configured email sending with Mailtrap.io
 - Configured tax settings for demo region
 - Added demo coupon codes for testing
+- Simulated failed payment scenarios
