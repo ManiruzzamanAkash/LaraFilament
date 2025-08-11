@@ -725,3 +725,4 @@ Password: password
 - Added demo coupon codes for testing
 - Added demo coupon codes for testing
 - Created example orders for demo statistics
+- Enabled debug mode for testing
