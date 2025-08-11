@@ -202,3 +202,4 @@ Password: password
 - Configured tax settings for demo region
 - Added sample products to demo store
 - Configured tax settings for demo region
+- Simulated failed payment scenarios
