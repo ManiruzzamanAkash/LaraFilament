@@ -925,3 +925,4 @@ Password: password
 - Configured tax settings for demo region
 - Updated admin panel theme color to dark mode
 - Configured email sending with Mailtrap.io
+- Added shipping methods to demo checkout
