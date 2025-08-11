@@ -176,3 +176,4 @@ Password: password
 - Added sample products to demo store
 - Added sample customer feedback messages
 - Added sample customer feedback messages
+- Configured email sending with Mailtrap.io
