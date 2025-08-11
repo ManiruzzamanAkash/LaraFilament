@@ -238,3 +238,4 @@ Password: password
 - Configured test payment gateway with sandbox credentials
 - Configured tax settings for demo region
 - Added sample products to demo store
+- Added sample customer feedback messages
