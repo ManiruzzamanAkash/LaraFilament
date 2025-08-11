@@ -483,3 +483,4 @@ Password: password
 - Added shipping methods to demo checkout
 - Enabled debug mode for testing
 - Configured multi-language support
+- Enabled debug mode for testing
