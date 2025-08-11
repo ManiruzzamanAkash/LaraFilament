@@ -348,3 +348,4 @@ Password: password
 - Configured test payment gateway with sandbox credentials
 - Imported sample CSV data for testing
 - Configured email sending with Mailtrap.io
+- Added demo coupon codes for testing
