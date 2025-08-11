@@ -448,3 +448,4 @@ Password: password
 - Configured email sending with Mailtrap.io
 - Added shipping methods to demo checkout
 - Updated dashboard widgets for better analytics
+- Added demo user John Doe (john@example.com / password123)
