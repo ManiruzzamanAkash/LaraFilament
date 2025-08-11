@@ -195,3 +195,4 @@ Password: password
 - Added sample customer feedback messages
 - Configured multi-language support
 - Configured test payment gateway with sandbox credentials
+- Added demo coupon codes for testing
