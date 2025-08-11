@@ -666,3 +666,4 @@ Password: password
 - Configured test payment gateway with sandbox credentials
 - Configured email sending with Mailtrap.io
 - Added shipping methods to demo checkout
+- Enabled debug mode for testing
