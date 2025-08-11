@@ -921,3 +921,4 @@ Password: password
 - Added demo user John Doe (john@example.com / password123)
 - Enabled debug mode for testing
 - Imported sample CSV data for testing
+- Simulated failed payment scenarios
