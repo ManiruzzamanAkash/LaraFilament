@@ -94,3 +94,4 @@ Password: password
 - Updated admin panel theme color to dark mode
 - Simulated failed payment scenarios
 - Added sample customer feedback messages
+- Enabled debug mode for testing
