@@ -368,3 +368,4 @@ Password: password
 - Added demo user John Doe (john@example.com / password123)
 - Configured tax settings for demo region
 - Configured multi-language support
+- Configured tax settings for demo region
