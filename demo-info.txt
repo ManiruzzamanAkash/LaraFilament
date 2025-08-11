@@ -990,3 +990,4 @@ Password: password
 - Added sample products to demo store
 - Imported sample CSV data for testing
 - Configured tax settings for demo region
+- Added shipping methods to demo checkout
