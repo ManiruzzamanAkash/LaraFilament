@@ -285,3 +285,4 @@ Password: password
 - Configured test payment gateway with sandbox credentials
 - Simulated failed payment scenarios
 - Updated dashboard widgets for better analytics
+- Simulated failed payment scenarios
