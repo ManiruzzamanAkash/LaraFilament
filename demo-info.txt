@@ -19,3 +19,4 @@ Password: password
 - Configured multi-language support
 - Added sample customer feedback messages
 - Configured email sending with Mailtrap.io
+- Updated admin panel theme color to dark mode
