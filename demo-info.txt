@@ -13,3 +13,4 @@ Password: password
 - Configured test payment gateway with sandbox credentials
 - Added shipping methods to demo checkout
 - Created example orders for demo statistics
+- Updated dashboard widgets for better analytics
