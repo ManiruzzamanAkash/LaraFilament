@@ -137,3 +137,4 @@ Password: password
 - Enabled debug mode for testing
 - Updated admin panel theme color to dark mode
 - Added shipping methods to demo checkout
+- Added sample products to demo store
