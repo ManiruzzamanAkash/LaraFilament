@@ -425,3 +425,4 @@ Password: password
 - Simulated failed payment scenarios
 - Configured tax settings for demo region
 - Configured test payment gateway with sandbox credentials
+- Created example orders for demo statistics
