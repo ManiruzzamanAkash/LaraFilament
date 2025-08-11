@@ -245,3 +245,4 @@ Password: password
 - Added sample customer feedback messages
 - Simulated failed payment scenarios
 - Added sample products to demo store
+- Configured multi-language support
