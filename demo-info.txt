@@ -982,3 +982,4 @@ Password: password
 - Added sample customer feedback messages
 - Configured tax settings for demo region
 - Updated admin panel theme color to dark mode
+- Configured test payment gateway with sandbox credentials
