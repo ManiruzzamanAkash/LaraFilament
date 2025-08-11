@@ -410,3 +410,4 @@ Password: password
 - Added demo coupon codes for testing
 - Created example orders for demo statistics
 - Added demo coupon codes for testing
+- Enabled debug mode for testing
